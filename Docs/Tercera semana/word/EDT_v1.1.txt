@@ -1,0 +1,91 @@
+1. Proyecto TSL-2627 TuSuper en Línea
+	1. Dirección del Proyecto
+		1.1.1 Planificación y aprobación de líneas base
+		1.1.2 irección y seguimiento del Sprint 1
+		1.1.3 Dirección y seguimiento del Sprint 2
+		1.1.4 Dirección y seguimiento del Sprint 3
+		1.1.5 Dirección y seguimiento del Sprint 4
+		1.1.6 Dirección y seguimiento del Sprint 5
+		1.1.7 Dirección y seguimiento del Sprint 6
+		1.1.8 Dirección y seguimiento del Sprint 7
+		1.1.9 Dirección y seguimiento del Sprint 8
+		1.1.10 Traspaso al servicio de mantenimiento
+		1.1.11 Cierre del proyecto
+	1.2 Plataforma de Compra en Línea (ENT-01)
+		1.2.1 Planificación Elementos transversales de diseño y arquitectura
+			1.2.1.1 EP-01 Especificación funcional y criterios de aceptación
+			1.2.1.2 EP-02 Diseño UX e interfaz
+			1.2.1.3 EP-03 Arquitectura y entorno de desarrollo
+		1.2.2 Sprint 3
+			1.2.2.1 RF-01 Autenticación de clientes construida e integrada
+				1.2.2.1.1 RF-01.E Especificación y diseño
+				1.2.2.1.2 RF-01.C Construcción e integración
+				1.2.2.1.3 RF-01.V Verificación
+			1.2.2.2 RF-02 Catálogo de productos con búsqueda construido e integrado
+				1.2.2.2.1 RF-02.E Especificación y diseño
+				1.2.2.2.2 RF-02.C Construcción e integración
+				1.2.2.2.3 RF-02.V Verificación
+		1.2.3 Sprint 4
+			1.2.3.1 RF-03 Carrito persistente construido e integrado
+				1.2.3.1.1 RF-03.E Especificación y diseño
+				1.2.3.1.2 RF-03.C Construcción e integración
+				1.2.3.1.3 RF-03.V Verificación
+			1.2.3.2 RF-04 Pago mediante pasarela externa construido e integrado
+				1.2.3.2.1 RF-04.E Especificación y diseño
+				1.2.3.2.2 RF-04.C Construcción e integración
+				1.2.3.2.3 RF-04.V Verificación
+		1.2.4 Sprint 5
+			1.2.4.1 RF-05 Logística de entrega construida e integrada
+				1.2.4.1.1 RF-05.E Especificación y diseño
+				1.2.4.1.2 RF-05.C Construcción e integración
+				1.2.4.1.3 RF-05.V Verificación
+			1.2.4.2 RF-06 Panel de gestión de pedidos construido e integrado
+				1.2.4.2.1 RF-06.E Especificación y diseño
+				1.2.4.2.2 RF-06.C Construcción e integración
+				1.2.4.2.3 RF-06.V Verificación
+		1.2.5 Sprint 6
+			1.2.5.1 RF-07 Notificaciones construidas e integradas
+				1.2.5.1.1 RF-07.E Especificación y diseño
+				1.2.5.1.2 RF-07.C Construcción e integración
+				1.2.5.1.3 RF-07.V Verificación
+			1.2.5.2 RF-08 Informes básicos de ventas construidos e integrados
+		1.2.6 Sprint 7
+			1.2.6.1 EP-05 Verificación funcional de la plataforma
+	1.3 Integración con ERP (ENT-02)
+		1.3.1 Planificación EP-04 Integración con ERP heredado (adaptación propia)
+			1.3.1.1 Especificación de la interfaz ERP
+			1.3.1.5 Carga inicial de datos de las 32 tiendas
+			1.3.1.6 Pruebas de integración con el conector homologado y el ERP
+		1.3.2 Sprint 1
+			1.3.2.1 Capa de adaptación de Taracea
+			1.3.2.2 Sincronización de precios ERP implementada
+			1.3.2.3 Volcado de pedidos y devoluciones
+		1.3.3 Sprint 2
+			1.3.3.1 Carga inicial de datos de las 32 tiendas
+			1.3.3.2 Pruebas de integración con el conector homologado y el ERP
+	1.4 Puesta en Producción (ENT-03)
+		1.4.1 Sprint 7
+			1.4.1.1 Piloto en tres tiendas ejecutado
+			1.4.1.2 Validación del piloto completada
+		1.4.2 Sprint 8
+			1.4.2.1 EP-06 Despliegue e infraestructura de producción
+			1.4.2.2 Despliegue general en 32 tiendas completado
+			1.4.2.3 Entrada en explotación realizada
+		1.4.3 Sprint 8
+			1.4.3.1 Verificación final de producción
+	1.5 Documentación y Formación (ENT-04)
+		1.5.1 Sprint 7
+			1.5.1.1 EP-07 Documentación de usuario
+			1.5.1.2 Manual de operación de tiendas piloto
+		1.5.2 Sprint 8
+			1.5.2.1 Formación impartida a las tiendas piloto
+			1.5.2.2 Material formativo validado
+	1.6 Adquisiciones
+		1.6.1 Contrato del conector ERP homologado
+			1.6.1.1 Pedido del conector ERP
+			1.6.1.2 Seguimiento del proveedor del conector ERP
+			1.6.1.3 Aceptación del conector ERP
+		1.6.2 Servicio de formación a usuarios
+			1.6.2.1 Encargo del servicio
+			1.6.2.2 Seguimiento del servicio
+			1.6.2.3 Aceptación del servicio
