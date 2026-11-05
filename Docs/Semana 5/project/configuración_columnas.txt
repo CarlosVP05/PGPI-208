@@ -1,0 +1,3 @@
+Text20 -> Copia de seguridad de WBS
+Text10 -> Copia de seguridad de Nombre tarea (incluye grupo de tareas)
+Flag1 -> Es paquete de Trabajo EDT (Si la tarea viene de un paquete de trabajo de la EDT)
