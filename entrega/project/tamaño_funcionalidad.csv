@@ -1,0 +1,9 @@
+﻿Requisito,Dependencia Externa,Num Funciones,Tamaño
+RF-01,,6,Grande
+RF-02,Pasarela pago,6,Grande
+RF-03,,5,Mediano
+RF-04,,4,Pequeño
+RF-05,ERP,4,Pequeño
+RF-06,ERP,4,Pequeño
+RF-07,ERP,3,Pequeño
+RF-08,ERP,4,Pequeño

@@ -1,0 +1,105 @@
+ID,Unique_ID,WBS,Task_Name,Duration,Resource_Initials,Resource_Names,Start_Date,Finish_Date,Predecessors,Milestone,Summary,Text1,Text2,Text3,Es_paquete_de_Trabajo_EDT
+5,173,1.1.1.2,"Elaboración del Plan de Dirección del Proyecto, Alcance, EDT y Cronograma",5 days,JP-2026,Jefe de proyecto - 2026,Mon 05/10/26,Fri 09/10/26,4,No,No,,,APR; SOL,No
+6,174,1.1.1.3,Tramitación y negociación de la aceptación del calendario y alcance por el cliente,5 days,JP-2026,Jefe de proyecto - 2026,Tue 13/10/26,Mon 19/10/26,5,No,No,,,ACE-LB,No
+10,175,1.1.2.2,Dirección del Sprint 1,2 days,JP-2026,Jefe de proyecto - 2026[25%],Mon 09/11/26,Tue 10/11/26,9,No,No,,,SPR; ISV,No
+11,454,1.1.2.3,Seguimiento del Sprint 1,8 days,JP-2026,Jefe de proyecto - 2026[25%],Wed 11/11/26,Fri 20/11/26,10,No,No,,,SPR; ISV,No
+14,176,1.1.3.2,Dirección del Sprint 2,2 days,JP-2026,Jefe de proyecto - 2026[25%],Mon 23/11/26,Tue 24/11/26,13,No,No,,,SPR; ISV,No
+15,455,1.1.3.3,Seguimiento del Sprint 2,8 days,JP-2026,Jefe de proyecto - 2026[25%],Wed 25/11/26,Fri 04/12/26,14,No,No,,,SPR; ISV,No
+18,177,1.1.4.2,Dirección del Sprint 3,2 days,JP-2026,Jefe de proyecto - 2026[25%],Mon 07/12/26,Wed 09/12/26,17,No,No,,,SPR; ISV,No
+19,456,1.1.4.3,Seguimiento del Sprint 3,7 days,JP-2026,Jefe de proyecto - 2026[25%],Thu 10/12/26,Fri 18/12/26,18,No,No,,,SPR; ISV,No
+22,178,1.1.5.2,Dirección del Sprint 4,2 days,"JP-2026,JP-2027","Jefe de proyecto - 2026[25%],Jefe de proyecto - 2027[25%]",Mon 21/12/26,Tue 22/12/26,21,No,No,,,SPR; ISV,No
+23,457,1.1.5.3,Seguimiento del Sprint 4,5 days,"JP-2026,JP-2027","Jefe de proyecto - 2026[25%],Jefe de proyecto - 2027[25%]",Wed 23/12/26,Fri 08/01/27,22,No,No,,,SPR; ISV,No
+26,179,1.1.6.2,Dirección del Sprint 5,2 days,JP-2027,Jefe de proyecto - 2027[25%],Mon 11/01/27,Tue 12/01/27,25,No,No,,,SPR; ISV,No
+27,458,1.1.6.3,Seguimiento del Sprint 5,8 days,JP-2027,Jefe de proyecto - 2027[25%],Wed 13/01/27,Fri 22/01/27,26,No,No,,,SPR; ISV,No
+30,180,1.1.7.2,Dirección del Sprint 6,2 days,JP-2027,Jefe de proyecto - 2027[25%],Mon 25/01/27,Tue 26/01/27,29,No,No,,,SPR; ISV,No
+31,459,1.1.7.3,Seguimiento del Sprint 6,8 days,JP-2027,Jefe de proyecto - 2027[25%],Wed 27/01/27,Fri 05/02/27,30,No,No,,,SPR; ISV,No
+33,183,1.1.8.1,Preparación y coordinación del traspaso al servicio de mantenimiento.,0.8 days,JP-2027,Jefe de proyecto - 2027[25%],Mon 08/02/27,Mon 08/02/27,31,No,No,,,,No
+34,461,1.1.8.2,Entrega y traspaso al servicio de mantenimiento completado.,0.2 days,JP-2027,Jefe de proyecto - 2027[25%],Mon 08/02/27,Mon 08/02/27,33,No,No,,,,No
+36,184,1.1.9.1,Elaboración del Informe de Cierre y Lecciones Aprendidas,1 day,JP-2027,Jefe de proyecto - 2027[25%],Tue 09/02/27,Tue 09/02/27,"31,34",No,No,,,CPR,No
+37,353,1.1.9.2,Cierre del proyecto aprobado y completado,1 day,JP-2027,Jefe de proyecto - 2027[25%],Wed 10/02/27,Wed 10/02/27,36,No,No,,,CPR,No
+42,398,1.2.1.2,Tramitación del Pedido del conector ERP tramitado,1 day,JP-2026,Jefe de proyecto - 2026[25%],Fri 06/11/26,Fri 06/11/26,41,No,No,,,PED,No
+44,399,1.2.1.4,Seguimiento del proveedor del conector,1 day?,JP-2026,Jefe de proyecto - 2026[25%],Mon 09/11/26,Mon 09/11/26,43,No,No,,,SEG,No
+45,400,1.2.1.5,Conector recibido y aceptado formalmente,1 day,JP-2026,Jefe de proyecto - 2026[25%],Tue 10/11/26,Tue 10/11/26,44,No,No,,,ACO,No
+48,402,1.2.2.1,Encargo y elaboración de documentación,0.2 days,JP-2026,Jefe de proyecto - 2026[25%],Fri 06/11/26,Fri 06/11/26,7,No,No,,,EFO,No
+51,464,1.2.2.4,Realización de la formación,0.8 days,JP-2026,Jefe de proyecto - 2026[25%],Fri 06/11/26,Fri 06/11/26,48,No,No,,,EFO,No
+55,417,1.3.1.2,Gestión Solcitud de Acceso a los datos del ERP,1 day,JP-2026,Jefe de proyecto - 2026[25%],Mon 09/11/26,Mon 09/11/26,54,No,No,,,,No
+56,381,1.3.1.3,Sprint 1 · Especificación de interfaz ERP acordada (EP-04),2 days,"RH-0152-2026,RH-0218-2026,RH-0331-2026","Técncio de sistemas - 2026[50%],Desarrollador - 2026,Desarrollador - 2026",Tue 10/11/26,Wed 11/11/26,"9,54,55",No,No,EP-04,,,No
+58,382,1.3.2.1,Sprint 2 · Adaptación propia (EP-04),4 days,"RH-0152-2026,RH-0218-2026,RH-0331-2026","Técncio de sistemas - 2026[50%],Desarrollador - 2026,Desarrollador - 2026",Mon 23/11/26,Thu 26/11/26,"13,56",No,No,EP-04,C,,No
+59,465,1.3.2.2,Sprint 2 · Ensayos con datos simulados (EP-04),1 day,"RH-0152-2026,RH-0218-2026,RH-0331-2026","Técncio de sistemas - 2026[50%],Desarrollador - 2026,Desarrollador - 2026",Fri 27/11/26,Fri 27/11/26,58,No,No,EP-04,C,,No
+61,383,1.3.3.1,"Sprint 3 · Conector integrado, carga inicial y pruebas reales completadas (EP-04)",5 days,"RH-0152-2026,RH-0218-2026,RH-0331-2026","Técncio de sistemas - 2026[50%],Desarrollador - 2026,Desarrollador - 2026",Mon 07/12/26,Mon 14/12/26,"17,45,59",No,No,EP-04,C,,No
+62,439,1.3.3.2," Catálogo, precios y existencias del ERP, cargados y existencias del ERP, cargados y sincronizados (EP-04), con el conector y ERP funcionando",5 days,"RH-0152-2026,RH-0218-2026,RH-0331-2026","Técncio de sistemas - 2026[50%],Desarrollador - 2026,Desarrollador - 2026",Tue 15/12/26,Mon 21/12/26,"61,45",No,No,EP-04,C,,No
+65,385,1.3.4.1,Sprint 4 · Sincronización comprobada (EP-04),2 days,"RH-0152-2026,RH-0218-2026,RH-0331-2026","Técncio de sistemas - 2026[50%],Desarrollador - 2026,Desarrollador - 2026",Tue 22/12/26,Wed 23/12/26,"21,63",No,No,EP-04,V,,No
+66,466,1.3.4.2,Sprint 4 · Carga productiva de 32 tiendas (EP-04),4 days,"RH-0152-2026,RH-0218-2026,RH-0331-2026","Técncio de sistemas - 2026[50%],Desarrollador - 2026,Desarrollador - 2026",Mon 04/01/27,Fri 08/01/27,65,No,No,EP-04,V,,No
+72,415,1.4.1.1.3,"Gestión de la Solicitud de Franjas de Entrega, zonas de reparto y repartidores y acceso a Datos ERP",0.5 days,,,Mon 09/11/26,Mon 09/11/26,71,No,No,EP-03,E,,No
+74,430,1.4.1.1.5,Gestión de la Solicitud de contrato a Jurídico sobre Taracera como encargada de procesamiento de datos de TuSuper,1 day,,,Fri 06/11/26,Fri 06/11/26,73,No,No,,,,No
+76,356,1.4.1.1.7,Especificación funcional común y criterios de aceptación acordados (EP-01),3 days,,,Mon 09/11/26,Wed 11/11/26,"9,70",No,No,EP-01,E,,No
+78,357,1.4.1.2.1,Sistema de diseño (EP-02),2 days,,,Thu 12/11/26,Fri 13/11/26,76,No,No,EP-02,E,,No
+79,467,1.4.1.2.2,Interfaz común preparada (EP-02),1 day,,,Mon 16/11/26,Mon 16/11/26,78,No,No,EP-02,E,,No
+81,358,1.4.1.3.1,Definición y planificación de la arquitectura técnica de la plataforma (EP-03).,1 day,,,Tue 17/11/26,Tue 17/11/26,79,No,No,EP-03,E,,No
+82,468,1.4.1.3.2,Diseño y documentación de la arquitectura técnica de la plataforma completados (EP-03).,1 day,,,Wed 18/11/26,Wed 18/11/26,81,No,No,EP-03,E,,No
+85,359,1.4.2.1.1,RF-01 especificado,2.75 days,,,Thu 12/11/26,Mon 16/11/26,"76,9",No,No,RF-01,E,,No
+86,471,1.4.2.1.2,RF-01 diseñado,1 day?,,,Mon 16/11/26,Tue 17/11/26,85,No,No,RF-01,E,,No
+87,470,1.4.2.1.3,RF-03 especificado,1 day?,,,Thu 12/11/26,Thu 12/11/26,"76,9",No,No,RF-03,E,,No
+88,469,1.4.2.1.4,RF-03 diseñado,1 day?,,,Fri 13/11/26,Fri 13/11/26,87,No,No,RF-03,E,,No
+91,360,1.4.2.2.2,RF-06 especificado,3.75 days,,,Thu 12/11/26,Tue 17/11/26,69,No,No,RF-06,E,,No
+92,472,1.4.2.2.3,RF-06 diseñado,1 day?,,,Tue 17/11/26,Wed 18/11/26,91,No,No,RF-06,E,,No
+94,361,1.4.2.3.1,Entornos de desarrollo operativos (EP-03),5 days,,,Thu 19/11/26,Wed 25/11/26,80,No,No,EP-03,C,,No
+95,473,1.4.2.3.2,CI/CD operativos (EP-03),5 days,,,Thu 26/11/26,Wed 02/12/26,94,No,No,EP-03,C,,No
+98,362,1.4.3.1.1,RF-01 construido,10 days,,,Mon 23/11/26,Fri 04/12/26,"13,86",No,No,RF-01,C,,No
+99,476,1.4.3.1.2,RF-01 integrado,1 day?,,,Mon 07/12/26,Mon 07/12/26,98,No,No,RF-01,C,,No
+100,475,1.4.3.1.3,RF-03 construido,1 day?,,,Mon 23/11/26,Mon 23/11/26,"13,88",No,No,RF-03,C,,No
+101,474,1.4.3.1.4,RF-03 integrado,1 day?,,,Tue 24/11/26,Tue 24/11/26,100,No,No,RF-03,C,,No
+103,363,1.4.3.2.1,RF-02 especificado,3.66 days,,,Mon 23/11/26,Thu 26/11/26,13,No,No,RF-02,E,,No
+104,479,1.4.3.2.2,RF-02 diseñado,1 day?,,,Thu 26/11/26,Fri 27/11/26,103,No,No,RF-02,E,,No
+105,478,1.4.3.2.3,RF-04 especificado,1 day?,,,Mon 23/11/26,Mon 23/11/26,13,No,No,RF-04,E,,No
+106,477,1.4.3.2.4,RF-04 diseñado,1 day?,,,Tue 24/11/26,Tue 24/11/26,105,No,No,RF-04,E,,No
+108,364,1.4.3.3.1,RF-06 construido,9.75 days,,,Tue 15/12/26,Thu 07/01/27,"13,61,92",No,No,RF-06,C,,No
+109,480,1.4.3.3.2,RF-06 integrado,1 day?,,,Thu 07/01/27,Fri 08/01/27,108,No,No,RF-06,C,,No
+112,414,1.4.3.4.2,RF-05 especificado,3.75 days,,,Mon 23/11/26,Thu 26/11/26,"111,13",No,No,RF-05,E,,No
+114,482,1.4.3.4.4,RF-07 especificado,1.5 days,,,Mon 23/11/26,Tue 24/11/26,13,No,No,RF-07,E,,No
+115,481,1.4.3.4.5,RF-07 diseñado,1 day?,,,Tue 24/11/26,Wed 25/11/26,114,No,No,RF-07,E,,No
+118,366,1.4.4.1.1,Ejecución de las pruebas de verificación del requisito funcional RF-01,3.25 days,,,Wed 09/12/26,Mon 14/12/26,"17,99,101",No,No,RF-01,V,,No
+119,483,1.4.4.1.2,Verificación del requisito funcional RF-01 completada (V),1 day?,,,Mon 14/12/26,Tue 15/12/26,118,No,No,RF-01,V,,No
+122,367,1.4.4.2.1,RF-04 construido,8.25 days,,,Mon 07/12/26,Fri 18/12/26,"17,106",No,No,RF-04,C,,No
+123,484,1.4.4.2.2,RF-04 integrado,1 day?,,,Fri 18/12/26,Mon 21/12/26,122,No,No,RF-04,C,,No
+125,409,1.4.4.2.4,Solicitud de auditoria a TuSuper,1 day,,,Mon 21/12/26,Tue 22/12/26,124,No,No,,,,No
+127,368,1.4.4.3.1,RF-05 construido,9.75 days,,,Mon 07/12/26,Mon 21/12/26,"113,17,115",No,No,RF-05,C,,No
+128,485,1.4.4.3.2,RF-05 integrado,1 day?,,,Mon 21/12/26,Tue 22/12/26,127,No,No,RF-05,C,,No
+130,369,1.4.4.4.1,RF-08 especificado,3.75 days,,,Mon 07/12/26,Fri 11/12/26,17,No,No,RF-08,E,,No
+131,486,1.4.4.4.2,RF-08 diseñado,1 day?,,,Fri 11/12/26,Mon 14/12/26,130,No,No,RF-08,E,,No
+134,370,1.4.4.5.2,Plan de pruebas de sistema preparados (EP-05),6 days,,,Mon 07/12/26,Tue 15/12/26,17,No,No,EP-05,E,,No
+135,487,1.4.4.5.3,Escenarios de pruebas de sistema preparados (EP-05),1 day?,,,Wed 16/12/26,Wed 16/12/26,134,No,No,EP-05,E,,No
+138,371,1.4.5.1.1,RF-03 verificado (V),2.25 days,,,Mon 21/12/26,Wed 23/12/26,"21,101,119",No,No,RF-03,V,,No
+139,437,1.4.5.1.2,RF-03.4 Persistencia Sesión verificada (V),2.25 days,,,Wed 23/12/26,Tue 05/01/27,138,No,No,RF-03,V,,No
+141,372,1.4.5.2.1,RF-02 construido,10 days,,,Mon 21/12/26,Wed 13/01/27,"21,104",No,No,RF-02,C,,No
+142,488,1.4.5.2.2,RF-02 integrado,1 day?,,,Thu 14/01/27,Thu 14/01/27,141,No,No,RF-02,C,,No
+144,373,1.4.5.3.1,RF-05 verificado,3.75 days,,,Tue 22/12/26,Thu 07/01/27,"21,62,128",No,No,RF-05,V,,No
+145,489,1.4.5.3.2,RF-06 verificado,1 day?,,,Fri 08/01/27,Mon 11/01/27,"21,62,109",No,No,RF-06,V,,No
+148,410,1.4.6.1.1,RF-02 verificado,5.83 days,,,Mon 25/01/27,Mon 01/02/27,"126,24,62,142",No,No,RF-02,V,,No
+151,374,1.4.6.1.4,RF-04 verificado,1.5 days,,,Fri 15/01/27,Mon 18/01/27,"25,61,150,123,131,142",No,No,RF-04,V,,No
+153,375,1.4.6.2.1,RF-07 construido,9.75 days,,,Mon 11/01/27,Mon 25/01/27,"113,25,144,115,145",No,No,RF-07,C,,No
+154,492,1.4.6.2.2,RF-07 integrado,1 day?,,,Mon 25/01/27,Tue 26/01/27,153,No,No,RF-07,C,,No
+155,491,1.4.6.2.3,RF-08 construido,1 day?,,,Mon 11/01/27,Tue 12/01/27,"113,25,144,131,145",No,No,RF-08,C,,No
+156,490,1.4.6.2.4,RF-08 integrado,1 day?,,,Tue 12/01/27,Wed 13/01/27,155,No,No,RF-08,C,,No
+158,376,1.4.6.3.1,Pruebas de sistema ejecutadas (EP-05),3 days,,,Mon 11/01/27,Wed 13/01/27,"25,135",No,No,EP-05,V,,No
+159,493,1.4.6.3.2,Pruebas de carga y seguridad ejecutadas (EP-05),3 days,,,Thu 14/01/27,Mon 18/01/27,"25,158,135",No,No,EP-05,V,,No
+161,377,1.4.6.4.1,Realización del seguimiento técnico del piloto durante el primer tramo (EP-05),5 days,,,Tue 19/01/27,Mon 25/01/27,"25,159",No,No,EP-05,V,,No
+162,494,1.4.6.4.2,Primer tramo del seguimiento técnico del piloto completado (EP-05),1 day,,,Tue 26/01/27,Tue 26/01/27,"25,161,159",No,No,EP-05,V,,No
+165,378,1.4.7.1.1,RF-07 verificado,3.75 days,,,Tue 26/01/27,Mon 01/02/27,"29,144,62,154,145",No,No,RF-07,V,,No
+166,495,1.4.7.1.2,RF-08 verificado,1 day?,,,Mon 25/01/27,Mon 25/01/27,"29,144,62,156,145",No,No,RF-08,V,,No
+168,379,1.4.7.2.1,Seguimiento técnico del piloto (EP-05),5 days,,,Wed 27/01/27,Tue 02/02/27,"29,162",No,No,EP-05,V,,No
+169,496,1.4.7.2.2,Evidencias finales del piloto completadas (EP-05),1 day,,,Wed 03/02/27,Wed 03/02/27,168,No,No,EP-05,V,,No
+173,427,1.5.1.2,Gestión de la Solicitud de las listas del personal a formar,1 day,,,Fri 04/12/26,Fri 04/12/26,172,No,No,,,,No
+174,396,1.5.1.3,Sprint 3 · Documentación técnica y funcional entregada a Formación (EP-07),5 days,,,Mon 07/12/26,Mon 14/12/26,17,No,No,EP-07,,,No
+179,425,1.5.2.3,Planificación y preparación de la formación del personal,0.5 days,,,Mon 11/01/27,Mon 11/01/27,"177,50",No,No,,,DFI,No
+180,497,1.5.2.4,Formación del personal realizada y completada,0.5 days,,,Mon 11/01/27,Mon 11/01/27,179,No,No,,,DFI,No
+184,419,1.6.1.2,Gestión de la Solicitud de cuentas de desarrollo,1 day,,,Fri 04/12/26,Fri 04/12/26,"13,183",No,No,,,,No
+185,386,1.6.1.3,Sprint 2 · Entorno de preproducción preparado (EP-06),5 days,,,Mon 23/11/26,Fri 27/11/26,13,No,No,EP-06,,,No
+189,392,1.6.2.2,Sprint 4 · Preparación y planificación del despliegue de la plataforma en las tres tiendas piloto (EP-06),2 days,,,Mon 21/12/26,Tue 22/12/26,"17,188,185",No,No,EP-06,,,No
+191,498,1.6.2.4,Sprint 4 · Despliegue de la plataforma en las tres tiendas piloto completado (EP-06),3 days,,,Wed 23/12/26,Tue 05/01/27,189,No,No,EP-06,,,No
+194,393,1.6.3.2,Sprint 5 · Piloto operativo primer tramo (EP-06),0.5 days,,,Mon 11/01/27,Mon 11/01/27,"25,191",No,No,EP-06,,,No
+195,499,1.6.3.3,Sprint 5 · Piloto supervisado: primer tramo (EP-06),0.5 days,,,Mon 11/01/27,Mon 11/01/27,194,No,No,EP-06,,,No
+198,394,1.6.4.1.1,Ejecución del segundo tramo del piloto operativo (EP-06),4 days,,,Mon 25/01/27,Thu 28/01/27,"29,195",No,No,EP-06,,,No
+199,500,1.6.4.1.2,Segundo tramo del piloto operativo finalizado (EP-06),1 day,,,Fri 29/01/27,Fri 29/01/27,198,No,No,EP-06,,,No
+201,395,1.6.4.2.1,Despliegue en producción y apertura de las 32 tiendas (EP-06),5 days,,,Thu 04/02/27,Wed 10/02/27,199,No,No,EP-06,,,No
+202,502,1.6.4.2.2,Despliegue en producción y apertura de las 32 tiendas completados (EP-06),1 day,,,Thu 11/02/27,Thu 11/02/27,201,No,No,EP-06,,,No

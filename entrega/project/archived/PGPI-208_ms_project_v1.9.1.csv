@@ -1,0 +1,26 @@
+ID,Unique_ID,Code,Tarifa,Type,Resource_Name,Initials,Max_Units,Standard_Rate,Group_Name,Available_From,Available_To,Notes
+1,1,JP-2026,2026,Work,Jefe de proyecto - 2026,JP-2026,25%,60.00 €/hr,Dirección,Mon 09/11/26,Thu 31/12/26,
+2,3,RH-0152-2026,2026,Work,Técnico de sistemas - 2026,RH-0152-2026,50%,50.00 €/hr,Equipo 2,Mon 09/11/26,Thu 31/12/26,"Línea 2 (RF-05 a RF-08): Responde de EP-03, EP-04, EP-06 y EP-07, NOR-04 + Informe de Requisitos"
+3,5,RH-0186-2026,2026,Work,Diseñador UX - 2026,RH-0186-2026,75%,40.00 €/hr,Equipo 2,Mon 09/11/26,Thu 31/12/26,"Línea 2 (RF-05 a RF-08): Responde de EP-03, EP-04, EP-06 y EP-07, NOR-04 + Informe de Requisitos"
+4,6,RH-0245-2026,2026,Work,Técnico de Calidad - 2026,RH-0245-2026,75%,37.00 €/hr,Equipo 1,Mon 09/11/26,Thu 31/12/26,"Línea 1 (RF-01 a RF-04): Responde de EP-02 y EP-05, NOR-04 + Informe de Requisitos"
+5,7,RH-0218-2026,2026,Work,Desarrollador - 2026,RH-0218-2026,100%,35.00 €/hr,Equipo 1,Mon 09/11/26,Thu 31/12/26,"Línea 1 (RF-01 a RF-04): Responde de EP-02 y EP-05, NOR-04 + Informe de Requisitos"
+6,8,RH-0457-2026,2026,Work,Desarrollador Junior - 2026,RH-0457-2026,100%,22.00 €/hr,Equipo 1,Mon 09/11/26,Thu 31/12/26,"Línea 1 (RF-01 a RF-04): Responde de EP-02 y EP-05, NOR-04 + Informe de Requisitos"
+7,9,JP-2027,2027,Work,Jefe de proyecto - 2027,JP-2027,25%,61.80 €/hr,Dirección,NA,NA,
+8,11,RH-0152-2027,2027,Work,Técnico de sistemas - 2027,RH-0152-2027,50%,51.50 €/hr,Equipo 2,NA,Thu 31/12/26,"Línea 2 (RF-05 a RF-08): Responde de EP-03, EP-04, EP-06 y EP-07, NOR-04 + Informe de Requisitos"
+9,13,RH-0186-2027,2027,Work,Diseñador UX - 2027,RH-0186-2027,75%,41.20 €/hr,Equipo 2,NA,Thu 31/12/26,"Línea 2 (RF-05 a RF-08): Responde de EP-03, EP-04, EP-06 y EP-07, NOR-04 + Informe de Requisitos"
+10,14,RH-0245-2027,2027,Work,Técnico de Calidad - 2027,RH-0245-2027,75%,38.11 €/hr,Equipo 1,NA,Wed 30/12/26,"Línea 1 (RF-01 a RF-04): Responde de EP-02 y EP-05, NOR-04 + Informe de Requisitos"
+11,15,RH-0218-2027,2027,Work,Desarrollador - 2027,RH-0218-2027,100%,36.05 €/hr,Equipo 1,NA,Thu 31/12/26,"Línea 1 (RF-01 a RF-04): Responde de EP-02 y EP-05, NOR-04 + Informe de Requisitos"
+12,16,RH-0457-2027,2027,Work,Desarrollador Junior - 2027,RH-0457-2027,100%,22.66 €/hr,Equipo 1,NA,Thu 31/12/26,"Línea 1 (RF-01 a RF-04): Responde de EP-02 y EP-05, NOR-04 + Informe de Requisitos"
+13,17,RH-0331-2026,2026,Work,Desarrollador - 2026,RH-0331-2026,100%,35.00 €/hr,Equipo 2,Mon 09/11/26,Thu 31/12/26,"Línea 2 (RF-05 a RF-08): Responde de EP-03, EP-04, EP-06 y EP-07, NOR-04 + Informe de Requisitos"
+14,18,RH-0331-2027,2027,Work,Desarrollador - 2027,RH-0331-2027,100%,36.05 €/hr,Equipo 2,NA,Thu 31/12/26,"Línea 2 (RF-05 a RF-08): Responde de EP-03, EP-04, EP-06 y EP-07, NOR-04 + Informe de Requisitos"
+15,19,RH-0293-2026,2026,Work,Diseñador UX - 2026,RH-0293-2026,25%,40.00 €/hr,Equipo 1,Mon 09/11/26,Thu 31/12/26,"Línea 1 (RF-01 a RF-04): Responde de EP-02 y EP-05, NOR-04 + Informe de Requisitos"
+16,20,RH-0293-2027,2027,Work,Diseñador UX - 2027,RH-0293-2027,25%,41.20 €/hr,Equipo 1,NA,Thu 31/12/26,"Línea 1 (RF-01 a RF-04): Responde de EP-02 y EP-05, NOR-04 + Informe de Requisitos"
+17,21,RH-0389-2026,2026,Work,Técnico de Calidad - 2026,RH-0389-2026,75%,37.00 €/hr,Equipo 2,Mon 09/11/26,Thu 31/12/26,"Línea 2 (RF-05 a RF-08): Responde de EP-03, EP-04, EP-06 y EP-07, NOR-04 + Informe de Requisitos"
+18,22,RH-0389-2027,2027,Work,Técnico de Calidad - 2027,RH-0389-2027,75%,38.11 €/hr,Equipo 2,NA,Thu 31/12/26,"Línea 2 (RF-05 a RF-08): Responde de EP-03, EP-04, EP-06 y EP-07, NOR-04 + Informe de Requisitos"
+19,23,RH-0470-2026,2026,Work,Desarrollador Junior - 2026,RH-0470-2026,50%,22.00 €/hr,Equipo 1,Mon 09/11/26,Thu 31/12/26,"Línea 1 (RF-01 a RF-04): Responde de EP-02 y EP-05, NOR-04 + Informe de Requisitos"
+20,24,RH-0470-2027,2027,Work,Desarrollador Junior - 2027,RH-0470-2027,50%,22.66 €/hr,Equipo 1,NA,Thu 31/12/26,"Línea 1 (RF-01 a RF-04): Responde de EP-02 y EP-05, NOR-04 + Informe de Requisitos"
+21,25,RH-0462-2026,2026,Work,Desarrollador Junior - 2026,RH-0462-2026,75%,22.00 €/hr,Equipo 2,Mon 09/11/26,Thu 31/12/26,"Línea 2 (RF-05 a RF-08): Responde de EP-03, EP-04, EP-06 y EP-07, NOR-04 + Informe de Requisitos"
+22,26,RH-0462-2027,2027,Work,Desarrollador Junior - 2027,RH-0462-2027,75%,22.66 €/hr,Equipo 2,NA,Thu 31/12/26,"Línea 2 (RF-05 a RF-08): Responde de EP-03, EP-04, EP-06 y EP-07, NOR-04 + Informe de Requisitos"
+23,28,RH-0457-2026,2026,Work,Desarrollador Junior - 2026,RH-0457-2026,100%,22.00 €/hr,Equipo 1,Mon 09/11/26,Thu 31/12/26,"Línea 1 (RF-01 a RF-04): Responde de EP-02 y EP-05, NOR-04 + Informe de Requisitos"
+24,29,,,Cost,Conector ERP,Conector-ERP,,,,NA,NA,
+25,30,,,Work,,,25%,0.00 €/hr,Equipo de Experto,NA,NA,

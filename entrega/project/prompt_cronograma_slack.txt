@@ -1,0 +1,6 @@
+Revisa el fichero "cronograma_tareas_slack_v2.0.csv", toma el fichero "modelo_estimaciones.csv". Y asigna un duración en una nueva columna llamada "Duracion_Revisada" cuyo valor debe seguir los siguientes criterios:
+- Nunca puede ser superior a 10 días
+- La duración minima de una tarea es 0.5 días
+- En el fichero "modelo_estimaciones.csv" se encuentra la diruación minima para tareas relacionadas con requisites y las columnas E, V y C son la duración minima para una tarea con valor en la columna Text2 igual a E o V o C
+- Si el Text1 de la tarea está relacionado con un RF, entonces debe tomar el valor de Text2 y ajustar la duración de la tarea conforme al fichero "modelo_estimaciones.csv" y hasta un máximo de 10 días o del valor de la columna Free_Slack
+
