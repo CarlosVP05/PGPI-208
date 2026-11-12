@@ -1,0 +1,106 @@
+ID,Unique_ID,WBS,Task_Name,Duration,Start_Date,Free_Slack,Total_Slack,Milestone,Summary,Text1,Text2,Text3,Duracion_Revisada
+4,350,1.1.1.1,Comienzo del Proyecto,0 days,Mon 05/10/26,0 days,14 days,No,No,,,,0.5
+5,173,1.1.1.2,"Elaboraci�n del Plan de Direcci�n del Proyecto, Alcance, EDT y Cronograma",5 days,Mon 05/10/26,0 days,14 days,No,No,,,APR; SOL,5
+6,174,1.1.1.3,Tramitaci�n y negociaci�n de la aceptaci�n del calendario y alcance por el cliente,5 days,Tue 13/10/26,13 days,14 days,No,No,,,ACE-LB,5
+10,175,1.1.2.2,Direcci�n del Sprint 1,2 days,Mon 09/11/26,0 days,0 days,No,No,,,SPR; ISV,2
+11,454,1.1.2.3,Seguimiento del Sprint 1,8 days,Wed 11/11/26,0 days,0 days,No,No,,,SPR; ISV,8
+14,176,1.1.3.2,Direcci�n del Sprint 2,2 days,Mon 23/11/26,0 days,0 days,No,No,,,SPR; ISV,2
+15,455,1.1.3.3,Seguimiento del Sprint 2,8 days,Wed 25/11/26,0 days,0 days,No,No,,,SPR; ISV,8
+18,177,1.1.4.2,Direcci�n del Sprint 3,2 days,Mon 07/12/26,0 days,0 days,No,No,,,SPR; ISV,2
+19,456,1.1.4.3,Seguimiento del Sprint 3,7 days,Thu 10/12/26,0 days,0 days,No,No,,,SPR; ISV,7
+22,178,1.1.5.2,Direcci�n del Sprint 4,2 days,Mon 21/12/26,0 days,0 days,No,No,,,SPR; ISV,2
+23,457,1.1.5.3,Seguimiento del Sprint 4,5 days,Wed 23/12/26,0 days,0 days,No,No,,,SPR; ISV,5
+26,179,1.1.6.2,Direcci�n del Sprint 5,2 days,Mon 11/01/27,0 days,1 day,No,No,,,SPR; ISV,2
+27,458,1.1.6.3,Seguimiento del Sprint 5,8 days,Wed 13/01/27,0 days,1 day,No,No,,,SPR; ISV,8
+30,180,1.1.7.2,Direcci�n del Sprint 6,2 days,Mon 25/01/27,0 days,1 day,No,No,,,SPR; ISV,2
+31,459,1.1.7.3,Seguimiento del Sprint 6,8 days,Wed 27/01/27,0 days,1 day,No,No,,,SPR; ISV,8
+33,183,1.1.8.1,Preparaci�n y coordinaci�n del traspaso al servicio de mantenimiento.,0.8 days,Mon 08/02/27,0 days,1 day,No,No,,,,0.8
+34,461,1.1.8.2,Entrega y traspaso al servicio de mantenimiento completado.,0.2 days,Mon 08/02/27,0 days,1 day,No,No,,,,0.5
+36,184,1.1.9.1,Elaboraci�n del Informe de Cierre y Lecciones Aprendidas,1 day,Tue 09/02/27,0 days,1 day,No,No,,,CPR,1
+37,353,1.1.9.2,Cierre del proyecto aprobado y completado,1 day,Wed 10/02/27,1 day,1 day,No,No,,,CPR,1
+42,398,1.2.1.2,Tramitaci�n del Pedido del conector ERP tramitado,1 day,Fri 06/11/26,0 days,20.75 days,No,No,,,PED,1
+44,399,1.2.1.4,Seguimiento del proveedor del conector,1 day?,Mon 09/11/26,0 days?,20.75 days?,No,No,,,SEG,1
+45,400,1.2.1.5,Conector recibido y aceptado formalmente,1 day,Tue 10/11/26,5 days,20.75 days,No,No,,,ACO,1
+48,402,1.2.2.1,Encargo y elaboraci�n de documentaci�n,0.2 days,Fri 06/11/26,0 days,59.8 days,No,No,,,EFO,0.5
+51,464,1.2.2.4,Realizaci�n de la formaci�n,0.8 days,Fri 06/11/26,60 days,60 days,No,No,,,EFO,0.8
+55,417,1.3.1.2,Gesti�n Solcitud de Acceso a los datos del ERP,1 day,Mon 09/11/26,0 days,14.75 days,No,No,,,,1
+56,381,1.3.1.3,Sprint 1 � Especificaci�n de interfaz ERP acordada (EP-04),2 days,Tue 10/11/26,7 days,14.75 days,No,No,EP-04,,,2
+58,382,1.3.2.1,Sprint 2 � Adaptaci�n propia (EP-04),4 days,Mon 23/11/26,0 days,7.75 days,No,No,EP-04,C,,4
+59,465,1.3.2.2,Sprint 2 � Ensayos con datos simulados (EP-04),1 day,Fri 27/11/26,5 days,7.75 days,No,No,EP-04,C,,1
+61,383,1.3.3.1,"Sprint 3 � Conector integrado, carga inicial y pruebas reales completadas (EP-04)",5 days,Mon 07/12/26,0 days,2.75 days,No,No,EP-04,C,,5
+62,439,1.3.3.2," Cat�logo, precios y existencias del ERP, cargados y existencias del ERP, cargados y sincronizados (EP-04), con el conector y ERP funcionando",5 days,Tue 15/12/26,0 days,5.75 days,No,No,EP-04,C,,5
+65,385,1.3.4.1,Sprint 4 � Sincronizaci�n comprobada (EP-04),2 days,Tue 22/12/26,0 days,24 days,No,No,EP-04,V,,2
+66,466,1.3.4.2,Sprint 4 � Carga productiva de 32 tiendas (EP-04),4 days,Mon 04/01/27,24 days,24 days,No,No,EP-04,V,,4
+72,415,1.4.1.1.3,"Gesti�n de la Solicitud de Franjas de Entrega, zonas de reparto y repartidores y acceso a Datos ERP",0.5 days,Mon 09/11/26,0 days,20.75 days,No,No,EP-03,E,,0.5
+74,430,1.4.1.1.5,Gesti�n de la Solicitud de contrato a Jur�dico sobre Taracera como encargada de procesamiento de datos de TuSuper,1 day,Fri 06/11/26,23 days,23 days,No,No,,,,1
+76,356,1.4.1.1.7,Especificaci�n funcional com�n y criterios de aceptaci�n acordados (EP-01),3 days,Mon 09/11/26,0 days,20 days,No,No,EP-01,E,,3
+78,357,1.4.1.2.1,Sistema de dise�o (EP-02),2 days,Thu 12/11/26,0 days,42 days,No,No,EP-02,E,,2
+79,467,1.4.1.2.2,Interfaz com�n preparada (EP-02),1 day,Mon 16/11/26,0 days,42 days,No,No,EP-02,E,,1
+81,358,1.4.1.3.1,Definici�n y planificaci�n de la arquitectura t�cnica de la plataforma (EP-03).,1 day,Tue 17/11/26,0 days,42 days,No,No,EP-03,E,,1
+82,468,1.4.1.3.2,Dise�o y documentaci�n de la arquitectura t�cnica de la plataforma completados (EP-03).,1 day,Wed 18/11/26,42 days,42 days,No,No,EP-03,E,,1
+85,359,1.4.2.1.1,RF-01 especificado,2.75 days,Thu 12/11/26,0 days,33.5 days,No,No,RF-01,E,,0.5
+86,471,1.4.2.1.2,RF-01 dise�ado,1 day?,Mon 16/11/26,3.25 days?,33.5 days?,No,No,RF-01,E,,3.25
+87,470,1.4.2.1.3,RF-03 especificado,1 day?,Thu 12/11/26,0 days?,44.25 days?,No,No,RF-03,E,,0.5
+88,469,1.4.2.1.4,RF-03 dise�ado,1 day?,Fri 13/11/26,5 days?,44.25 days?,No,No,RF-03,E,,2.25
+91,360,1.4.2.2.2,RF-06 especificado,3.75 days,Thu 12/11/26,0 days,20 days,No,No,RF-06,E,,0.5
+92,472,1.4.2.2.3,RF-06 dise�ado,1 day?,Tue 17/11/26,17.25 days?,20 days?,No,No,RF-06,E,,3.75
+94,361,1.4.2.3.1,Entornos de desarrollo operativos (EP-03),5 days,Thu 19/11/26,0 days,42 days,No,No,EP-03,C,,5
+95,473,1.4.2.3.2,CI/CD operativos (EP-03),5 days,Thu 26/11/26,42 days,42 days,No,No,EP-03,C,,5
+98,362,1.4.3.1.1,RF-01 construido,10 days,Mon 23/11/26,0 days,30.25 days,No,No,RF-01,C,,0.5
+99,476,1.4.3.1.2,RF-01 integrado,1 day?,Mon 07/12/26,0 days?,30.25 days?,No,No,RF-01,C,,0.5
+100,475,1.4.3.1.3,RF-03 construido,1 day?,Mon 23/11/26,0 days?,39.25 days?,No,No,RF-03,C,,0.5
+101,474,1.4.3.1.4,RF-03 integrado,1 day?,Tue 24/11/26,9 days?,39.25 days?,No,No,RF-03,C,,9
+103,363,1.4.3.2.1,RF-02 especificado,3.66 days,Mon 23/11/26,0 days,22.51 days,No,No,RF-02,E,,0.5
+104,479,1.4.3.2.2,RF-02 dise�ado,1 day?,Thu 26/11/26,14.34 days?,22.51 days?,No,No,RF-02,E,,5.83
+105,478,1.4.3.2.3,RF-04 especificado,1 day?,Mon 23/11/26,0 days?,31.25 days?,No,No,RF-04,E,,0.5
+106,477,1.4.3.2.4,RF-04 dise�ado,1 day?,Tue 24/11/26,8 days?,31.25 days?,No,No,RF-04,E,,1.5
+108,364,1.4.3.3.1,RF-06 construido,9.75 days,Tue 15/12/26,0 days,2.75 days,No,No,RF-06,C,,0.5
+109,480,1.4.3.3.2,RF-06 integrado,1 day?,Thu 07/01/27,0 days?,2.75 days?,No,No,RF-06,C,,0.5
+112,414,1.4.3.4.2,RF-05 especificado,3.75 days,Mon 23/11/26,0 days,11.25 days,No,No,RF-05,E,,0.5
+114,482,1.4.3.4.4,RF-07 especificado,1.5 days,Mon 23/11/26,0 days,12.5 days,No,No,RF-07,E,,0.5
+115,481,1.4.3.4.5,RF-07 dise�ado,1 day?,Tue 24/11/26,7.5 days?,12.5 days?,No,No,RF-07,E,,3.75
+118,366,1.4.4.1.1,Ejecuci�n de las pruebas de verificaci�n del requisito funcional RF-01,3.25 days,Wed 09/12/26,0 days,30.25 days,No,No,RF-01,V,,0.5
+119,483,1.4.4.1.2,Verificaci�n del requisito funcional RF-01 completada (V),1 day?,Mon 14/12/26,0 days?,30.25 days?,No,No,RF-01,V,,0.5
+122,367,1.4.4.2.1,RF-04 construido,8.25 days,Mon 07/12/26,0 days,23.25 days,No,No,RF-04,C,,0.5
+123,484,1.4.4.2.2,RF-04 integrado,1 day?,Fri 18/12/26,0 days?,23.25 days?,No,No,RF-04,C,,0.5
+125,409,1.4.4.2.4,Solicitud de auditoria a TuSuper,1 day,Mon 21/12/26,29.75 days,29.75 days,No,No,,,,1
+127,368,1.4.4.3.1,RF-05 construido,9.75 days,Mon 07/12/26,0 days,5 days,No,No,RF-05,C,,0.5
+128,485,1.4.4.3.2,RF-05 integrado,1 day?,Mon 21/12/26,0 days?,5 days?,No,No,RF-05,C,,0.5
+130,369,1.4.4.4.1,RF-08 especificado,3.75 days,Mon 07/12/26,0 days,26.25 days,No,No,RF-08,E,,0.5
+131,486,1.4.4.4.2,RF-08 dise�ado,1 day?,Fri 11/12/26,12 days?,26.25 days?,No,No,RF-08,E,,3.75
+134,370,1.4.4.5.2,Plan de pruebas de sistema preparados (EP-05),6 days,Mon 07/12/26,0 days,9 days,No,No,EP-05,E,,6
+135,487,1.4.4.5.3,Escenarios de pruebas de sistema preparados (EP-05),1 day?,Wed 16/12/26,9 days?,9 days?,No,No,EP-05,E,,1
+138,371,1.4.5.1.1,RF-03 verificado (V),2.25 days,Mon 21/12/26,0 days,26.5 days,No,No,RF-03,V,,0.5
+139,437,1.4.5.1.2,RF-03.4 Persistencia Sesi�n verificada (V),2.25 days,Wed 23/12/26,26.5 days,26.5 days,No,No,RF-03,V,,2.25
+141,372,1.4.5.2.1,RF-02 construido,10 days,Mon 21/12/26,0 days,8.17 days,No,No,RF-02,C,,0.5
+142,488,1.4.5.2.2,RF-02 integrado,1 day?,Thu 14/01/27,0 days?,8.17 days?,No,No,RF-02,C,,0.5
+144,373,1.4.5.3.1,RF-05 verificado,3.75 days,Tue 22/12/26,2.25 days,5 days,No,No,RF-05,V,,2.25
+145,489,1.4.5.3.2,RF-06 verificado,1 day?,Fri 08/01/27,0 days?,2.75 days?,No,No,RF-06,V,,0.5
+148,410,1.4.6.1.1,RF-02 verificado,5.83 days,Mon 25/01/27,0 days,2.17 days,No,No,RF-02,V,,0.5
+151,374,1.4.6.1.4,RF-04 verificado,1.5 days,Fri 15/01/27,12.5 days,12.5 days,No,No,RF-04,V,,1.5
+153,375,1.4.6.2.1,RF-07 construido,9.75 days,Mon 11/01/27,0 days,2.75 days,No,No,RF-07,C,,0.5
+154,492,1.4.6.2.2,RF-07 integrado,1 day?,Mon 25/01/27,0 days?,2.75 days?,No,No,RF-07,C,,0.5
+155,491,1.4.6.2.3,RF-08 construido,1 day?,Mon 11/01/27,0 days?,14.25 days?,No,No,RF-08,C,,0.5
+156,490,1.4.6.2.4,RF-08 integrado,1 day?,Tue 12/01/27,7.25 days?,14.25 days?,No,No,RF-08,C,,7.25
+158,376,1.4.6.3.1,Pruebas de sistema ejecutadas (EP-05),3 days,Mon 11/01/27,0 days,0 days,No,No,EP-05,V,,3
+159,493,1.4.6.3.2,Pruebas de carga y seguridad ejecutadas (EP-05),3 days,Thu 14/01/27,0 days,0 days,No,No,EP-05,V,,3
+161,377,1.4.6.4.1,Realizaci�n del seguimiento t�cnico del piloto durante el primer tramo (EP-05),5 days,Tue 19/01/27,0 days,0 days,No,No,EP-05,V,,5
+162,494,1.4.6.4.2,Primer tramo del seguimiento t�cnico del piloto completado (EP-05),1 day,Tue 26/01/27,0 days,0 days,No,No,EP-05,V,,1
+165,378,1.4.7.1.1,RF-07 verificado,3.75 days,Tue 26/01/27,2.75 days,2.75 days,No,No,RF-07,V,,2.75
+166,495,1.4.7.1.2,RF-08 verificado,1 day?,Mon 25/01/27,7 days?,7 days?,No,No,RF-08,V,,3.75
+168,379,1.4.7.2.1,Seguimiento t�cnico del piloto (EP-05),5 days,Wed 27/01/27,0 days,0 days,No,No,EP-05,V,,5
+169,496,1.4.7.2.2,Evidencias finales del piloto completadas (EP-05),1 day,Wed 03/02/27,0 days,0 days,No,No,EP-05,V,,1
+173,427,1.5.1.2,Gesti�n de la Solicitud de las listas del personal a formar,1 day,Fri 04/12/26,40 days,40 days,No,No,,,,1
+174,396,1.5.1.3,Sprint 3 � Documentaci�n t�cnica y funcional entregada a Formaci�n (EP-07),5 days,Mon 07/12/26,0 days,35 days,No,No,EP-07,,,5
+179,425,1.5.2.3,Planificaci�n y preparaci�n de la formaci�n del personal,0.5 days,Mon 11/01/27,0 days,23 days,No,No,,,DFI,0.5
+180,497,1.5.2.4,Formaci�n del personal realizada y completada,0.5 days,Mon 11/01/27,23 days,23 days,No,No,,,DFI,0.5
+184,419,1.6.1.2,Gesti�n de la Solicitud de cuentas de desarrollo,1 day,Fri 04/12/26,40 days,40 days,No,No,,,,1
+185,386,1.6.1.3,Sprint 2 � Entorno de preproducci�n preparado (EP-06),5 days,Mon 23/11/26,4 days,28 days,No,No,EP-06,,,5
+189,392,1.6.2.2,Sprint 4 � Preparaci�n y planificaci�n del despliegue de la plataforma en las tres tiendas piloto (EP-06),2 days,Mon 21/12/26,0 days,14 days,No,No,EP-06,,,2
+191,498,1.6.2.4,Sprint 4 � Despliegue de la plataforma en las tres tiendas piloto completado (EP-06),3 days,Wed 23/12/26,2 days,14 days,No,No,EP-06,,,3
+194,393,1.6.3.2,Sprint 5 � Piloto operativo primer tramo (EP-06),0.5 days,Mon 11/01/27,0 days,12 days,No,No,EP-06,,,0.5
+195,499,1.6.3.3,Sprint 5 � Piloto supervisado: primer tramo (EP-06),0.5 days,Mon 11/01/27,9 days,12 days,No,No,EP-06,,,0.5
+198,394,1.6.4.1.1,Ejecuci�n del segundo tramo del piloto operativo (EP-06),4 days,Mon 25/01/27,0 days,3 days,No,No,EP-06,,,4
+199,500,1.6.4.1.2,Segundo tramo del piloto operativo finalizado (EP-06),1 day,Fri 29/01/27,3 days,3 days,No,No,EP-06,,,1
+201,395,1.6.4.2.1,Despliegue en producci�n y apertura de las 32 tiendas (EP-06),5 days,Thu 04/02/27,0 days,0 days,No,No,EP-06,,,5
+202,502,1.6.4.2.2,Despliegue en producci�n y apertura de las 32 tiendas completados (EP-06),1 day,Thu 11/02/27,0 days,0 days,No,No,EP-06,,,1
