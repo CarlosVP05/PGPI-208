@@ -6,7 +6,7 @@
 	<GUID>30E24F12-67E0-F111-8443-749779859216</GUID>
 	<Title>Proyecto TSL-2627 TuSuper en Línea</Title>
 	<CreationDate>2026-11-11T22:39:00</CreationDate>
-	<LastSaved>2026-11-15T08:39:00</LastSaved>
+	<LastSaved>2026-11-15T09:41:00</LastSaved>
 	<ScheduleFromStart>1</ScheduleFromStart>
 	<StartDate>2026-10-05T09:00:00</StartDate>
 	<FinishDate>2027-02-12T09:00:00</FinishDate>
@@ -100,6 +100,10 @@
 			<Name>Resource &amp;Usage</Name>
 			<IsCustomized>true</IsCustomized>
 		</View>
+		<View>
+			<Name>Curva S de costes </Name>
+			<IsCustomized>true</IsCustomized>
+		</View>
 	</Views>
 	<Filters>
 		<Filter>
@@ -119,6 +123,9 @@
 		<Filter>
 			<Name>Date &amp;Range...</Name>
 			<IsCustomized>true</IsCustomized>
+		</Filter>
+		<Filter>
+			<Name>Tareas activas</Name>
 		</Filter>
 	</Filters>
 	<Groups>
@@ -157,7 +164,17 @@
 	</Tables>
 	<Maps/>
 	<Reports/>
-	<Drawings/>
+	<Drawings>
+		<Drawing>
+			<Name>Informe de valor acumulado</Name>
+		</Drawing>
+		<Drawing>
+			<Name>Curva S de costes</Name>
+		</Drawing>
+		<Drawing>
+			<Name>Flujo de caja</Name>
+		</Drawing>
+	</Drawings>
 	<DataLinks/>
 	<VBAProjects/>
 	<OutlineCodes/>
