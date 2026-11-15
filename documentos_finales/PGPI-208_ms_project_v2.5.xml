@@ -6,7 +6,7 @@
 	<GUID>30E24F12-67E0-F111-8443-749779859216</GUID>
 	<Title>Proyecto TSL-2627 TuSuper en Línea</Title>
 	<CreationDate>2026-11-11T22:39:00</CreationDate>
-	<LastSaved>2026-11-15T09:41:00</LastSaved>
+	<LastSaved>2026-11-15T20:40:00</LastSaved>
 	<ScheduleFromStart>1</ScheduleFromStart>
 	<StartDate>2026-10-05T09:00:00</StartDate>
 	<FinishDate>2027-02-12T09:00:00</FinishDate>
@@ -98,10 +98,6 @@
 		</View>
 		<View>
 			<Name>Resource &amp;Usage</Name>
-			<IsCustomized>true</IsCustomized>
-		</View>
-		<View>
-			<Name>Curva S de costes </Name>
 			<IsCustomized>true</IsCustomized>
 		</View>
 	</Views>
@@ -586,7 +582,7 @@
 		<Calendar>
 			<UID>6</UID>
 			<GUID>16E34F12-67E0-F111-8443-749779859216</GUID>
-			<Name>Técncio de sistemas - 2026</Name>
+			<Name>Técnico de sistemas - 2026</Name>
 			<IsBaseCalendar>0</IsBaseCalendar>
 			<IsBaselineCalendar>0</IsBaselineCalendar>
 			<BaseCalendarUID>1</BaseCalendarUID>
@@ -634,7 +630,7 @@
 		<Calendar>
 			<UID>14</UID>
 			<GUID>1CE34F12-67E0-F111-8443-749779859216</GUID>
-			<Name>Técncio de sistemas - 2027</Name>
+			<Name>Técnico de sistemas - 2027</Name>
 			<IsBaseCalendar>0</IsBaseCalendar>
 			<IsBaselineCalendar>0</IsBaselineCalendar>
 			<BaseCalendarUID>1</BaseCalendarUID>
@@ -791,6 +787,14 @@
 			<IsBaselineCalendar>0</IsBaselineCalendar>
 			<BaseCalendarUID>1</BaseCalendarUID>
 		</Calendar>
+		<Calendar>
+			<UID>36</UID>
+			<GUID>22A1A24D-1BE1-F111-8443-749779859216</GUID>
+			<Name>Desarrollador Junior - 2027</Name>
+			<IsBaseCalendar>0</IsBaseCalendar>
+			<IsBaselineCalendar>0</IsBaselineCalendar>
+			<BaseCalendarUID>1</BaseCalendarUID>
+		</Calendar>
 	</Calendars>
 	<Tasks>
 		<Task>
@@ -814,7 +818,7 @@
 			<ManualDuration>PT504H0M0S</ManualDuration>
 			<DurationFormat>21</DurationFormat>
 			<FreeformDurationFormat>7</FreeformDurationFormat>
-			<Work>PT1686H53M6S</Work>
+			<Work>PT1689H27M0S</Work>
 			<Stop>2026-10-05T09:00:00</Stop>
 			<Resume>2026-10-05T09:00:00</Resume>
 			<ResumeValid>0</ResumeValid>
@@ -835,7 +839,7 @@
 			<LateFinish>2027-02-12T09:00:00</LateFinish>
 			<StartVariance>0</StartVariance>
 			<FinishVariance>0</FinishVariance>
-			<WorkVariance>101213000.00</WorkVariance>
+			<WorkVariance>101367000.00</WorkVariance>
 			<FreeSlack>0</FreeSlack>
 			<TotalSlack>0</TotalSlack>
 			<StartSlack>0</StartSlack>
@@ -844,19 +848,19 @@
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>8772241.82</Cost>
+			<Cost>9135767.38</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualStart>2026-10-05T09:00:00</ActualStart>
-			<ActualDuration>PT1H53M18S</ActualDuration>
+			<ActualDuration>PT1H53M6S</ActualDuration>
 			<ActualCost>9000</ActualCost>
 			<ActualOvertimeCost>0</ActualOvertimeCost>
 			<ActualWork>PT1H30M0S</ActualWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<RegularWork>PT1686H53M0S</RegularWork>
-			<RemainingDuration>PT502H6M42S</RemainingDuration>
-			<RemainingCost>8763241.82</RemainingCost>
-			<RemainingWork>PT1685H23M6S</RemainingWork>
+			<RegularWork>PT1689H27M0S</RegularWork>
+			<RemainingDuration>PT502H6M54S</RemainingDuration>
+			<RemainingCost>9126767.38</RemainingCost>
+			<RemainingWork>PT1687H57M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
 			<ACWP>0.00</ACWP>
@@ -900,7 +904,7 @@
 			<ManualDuration>PT504H0M0S</ManualDuration>
 			<DurationFormat>21</DurationFormat>
 			<FreeformDurationFormat>21</FreeformDurationFormat>
-			<Work>PT1686H53M6S</Work>
+			<Work>PT1689H27M0S</Work>
 			<Stop>2026-10-05T09:00:00</Stop>
 			<Resume>2026-10-05T09:00:00</Resume>
 			<ResumeValid>0</ResumeValid>
@@ -921,7 +925,7 @@
 			<LateFinish>2027-02-12T09:00:00</LateFinish>
 			<StartVariance>0</StartVariance>
 			<FinishVariance>0</FinishVariance>
-			<WorkVariance>101213000.00</WorkVariance>
+			<WorkVariance>101367000.00</WorkVariance>
 			<FreeSlack>0</FreeSlack>
 			<TotalSlack>0</TotalSlack>
 			<StartSlack>0</StartSlack>
@@ -930,19 +934,19 @@
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>8772241.82</Cost>
+			<Cost>9135767.38</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualStart>2026-10-05T09:00:00</ActualStart>
-			<ActualDuration>PT1H53M18S</ActualDuration>
+			<ActualDuration>PT1H53M6S</ActualDuration>
 			<ActualCost>9000</ActualCost>
 			<ActualOvertimeCost>0</ActualOvertimeCost>
 			<ActualWork>PT1H30M0S</ActualWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<RegularWork>PT1686H53M0S</RegularWork>
-			<RemainingDuration>PT502H6M42S</RemainingDuration>
-			<RemainingCost>8763241.82</RemainingCost>
-			<RemainingWork>PT1685H23M6S</RemainingWork>
+			<RegularWork>PT1689H27M0S</RegularWork>
+			<RemainingDuration>PT502H6M54S</RemainingDuration>
+			<RemainingCost>9126767.38</RemainingCost>
+			<RemainingWork>PT1687H57M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
 			<ACWP>0.00</ACWP>
@@ -1026,7 +1030,7 @@
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>1750255</Cost>
+			<Cost>2101685</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -1036,7 +1040,7 @@
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT250H57M0S</RegularWork>
 			<RemainingDuration>PT504H0M0S</RemainingDuration>
-			<RemainingCost>1750255</RemainingCost>
+			<RemainingCost>2101685</RemainingCost>
 			<RemainingWork>PT250H57M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -4673,7 +4677,7 @@
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>12051</Cost>
+			<Cost>363481</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -4683,7 +4687,7 @@
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT1H57M0S</RegularWork>
 			<RemainingDuration>PT7H48M0S</RemainingDuration>
-			<RemainingCost>12051</RemainingCost>
+			<RemainingCost>363481</RemainingCost>
 			<RemainingWork>PT1H57M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -4969,11 +4973,11 @@
 			<TotalSlack>2520</TotalSlack>
 			<StartSlack>2520</StartSlack>
 			<FinishSlack>2520</FinishSlack>
-			<FixedCost>0</FixedCost>
+			<FixedCost>351430</FixedCost>
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>4635</Cost>
+			<Cost>356065</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -4983,7 +4987,7 @@
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT0H45M0S</RegularWork>
 			<RemainingDuration>PT3H0M0S</RemainingDuration>
-			<RemainingCost>4635</RemainingCost>
+			<RemainingCost>356065</RemainingCost>
 			<RemainingWork>PT0H45M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -5466,7 +5470,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ManualDuration>PT480H0M0S</ManualDuration>
 			<DurationFormat>21</DurationFormat>
 			<FreeformDurationFormat>21</FreeformDurationFormat>
-			<Work>PT1171H56M6S</Work>
+			<Work>PT1174H30M0S</Work>
 			<ResumeValid>0</ResumeValid>
 			<EffortDriven>0</EffortDriven>
 			<Recurring>0</Recurring>
@@ -5485,7 +5489,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<LateFinish>2027-02-12T09:00:00</LateFinish>
 			<StartVariance>0</StartVariance>
 			<FinishVariance>0</FinishVariance>
-			<WorkVariance>70316000.00</WorkVariance>
+			<WorkVariance>70470000.00</WorkVariance>
 			<FreeSlack>14400</FreeSlack>
 			<TotalSlack>14400</TotalSlack>
 			<StartSlack>208656</StartSlack>
@@ -5494,7 +5498,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>3657246.83</Cost>
+			<Cost>3664932.38</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -5502,10 +5506,10 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeCost>0</ActualOvertimeCost>
 			<ActualWork>PT0H0M0S</ActualWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<RegularWork>PT1171H56M0S</RegularWork>
+			<RegularWork>PT1174H30M0S</RegularWork>
 			<RemainingDuration>PT480H0M0S</RemainingDuration>
-			<RemainingCost>3657246.83</RemainingCost>
-			<RemainingWork>PT1171H56M6S</RemainingWork>
+			<RemainingCost>3664932.38</RemainingCost>
+			<RemainingWork>PT1174H30M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
 			<ACWP>0.00</ACWP>
@@ -8645,7 +8649,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>962841.9</Cost>
+			<Cost>961405.5</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -8655,7 +8659,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT318H58M0S</RegularWork>
 			<RemainingDuration>PT44H31M12S</RemainingDuration>
-			<RemainingCost>962841.9</RemainingCost>
+			<RemainingCost>961405.5</RemainingCost>
 			<RemainingWork>PT318H57M36S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -9777,7 +9781,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>230714.4</Cost>
+			<Cost>229278</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -9787,7 +9791,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT77H55M0S</RegularWork>
 			<RemainingDuration>PT44H31M12S</RemainingDuration>
-			<RemainingCost>230714.4</RemainingCost>
+			<RemainingCost>229278</RemainingCost>
 			<RemainingWork>PT77H54M36S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -9997,7 +10001,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>71888.4</Cost>
+			<Cost>70452</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -10007,7 +10011,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT23H56M0S</RegularWork>
 			<RemainingDuration>PT13H40M48S</RemainingDuration>
-			<RemainingCost>71888.4</RemainingCost>
+			<RemainingCost>70452</RemainingCost>
 			<RemainingWork>PT23H56M24S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -12883,7 +12887,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>532683.9</Cost>
+			<Cost>531247.5</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -12893,7 +12897,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT175H50M0S</RegularWork>
 			<RemainingDuration>PT42H0M0S</RemainingDuration>
-			<RemainingCost>532683.9</RemainingCost>
+			<RemainingCost>531247.5</RemainingCost>
 			<RemainingWork>PT175H49M48S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -13717,7 +13721,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>159953.4</Cost>
+			<Cost>158517</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -13727,7 +13731,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT53H52M0S</RegularWork>
 			<RemainingDuration>PT30H0M0S</RemainingDuration>
-			<RemainingCost>159953.4</RemainingCost>
+			<RemainingCost>158517</RemainingCost>
 			<RemainingWork>PT53H51M54S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -13944,7 +13948,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>71888.4</Cost>
+			<Cost>70452</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -13954,7 +13958,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT23H56M0S</RegularWork>
 			<RemainingDuration>PT13H40M48S</RemainingDuration>
-			<RemainingCost>71888.4</RemainingCost>
+			<RemainingCost>70452</RemainingCost>
 			<RemainingWork>PT23H56M24S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -14224,7 +14228,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>740076.83</Cost>
+			<Cost>743637.85</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -14234,7 +14238,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT229H46M0S</RegularWork>
 			<RemainingDuration>PT114H0M0S</RemainingDuration>
-			<RemainingCost>740076.83</RemainingCost>
+			<RemainingCost>743637.85</RemainingCost>
 			<RemainingWork>PT229H46M12S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -15048,19 +15052,19 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<EarlyStart>2027-01-11T09:00:00</EarlyStart>
 			<EarlyFinish>2027-01-19T14:06:00</EarlyFinish>
 			<LateStart>2027-01-28T11:13:12</LateStart>
-			<LateFinish>2027-02-08T13:44:24</LateFinish>
+			<LateFinish>2027-02-08T10:19:12</LateFinish>
 			<StartVariance>0</StartVariance>
 			<FinishVariance>0</FinishVariance>
 			<WorkVariance>7554000.00</WorkVariance>
 			<FreeSlack>48132</FreeSlack>
 			<TotalSlack>48132</TotalSlack>
 			<StartSlack>48132</StartSlack>
-			<FinishSlack>50184</FinishSlack>
+			<FinishSlack>48132</FinishSlack>
 			<FixedCost>0</FixedCost>
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>378044.7</Cost>
+			<Cost>381605.73</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -15070,7 +15074,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT125H54M0S</RegularWork>
 			<RemainingDuration>PT41H6M0S</RemainingDuration>
-			<RemainingCost>378044.7</RemainingCost>
+			<RemainingCost>381605.73</RemainingCost>
 			<RemainingWork>PT125H53M42S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -15150,20 +15154,20 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ExternalTask>0</ExternalTask>
 			<EarlyStart>2027-01-11T09:00:00</EarlyStart>
 			<EarlyFinish>2027-01-15T12:25:12</EarlyFinish>
-			<LateStart>2027-02-01T12:54:00</LateStart>
-			<LateFinish>2027-02-08T10:19:12</LateFinish>
+			<LateStart>2027-02-01T09:28:48</LateStart>
+			<LateFinish>2027-02-05T12:54:00</LateFinish>
 			<StartVariance>0</StartVariance>
 			<FinishVariance>0</FinishVariance>
 			<WorkVariance>2879000.00</WorkVariance>
 			<FreeSlack>0</FreeSlack>
-			<TotalSlack>56340</TotalSlack>
-			<StartSlack>56340</StartSlack>
-			<FinishSlack>56340</FinishSlack>
+			<TotalSlack>54288</TotalSlack>
+			<StartSlack>54288</StartSlack>
+			<FinishSlack>54288</FinishSlack>
 			<FixedCost>0</FixedCost>
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>144092.1</Cost>
+			<Cost>145449.39</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -15173,7 +15177,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT47H59M0S</RegularWork>
 			<RemainingDuration>PT27H25M12S</RemainingDuration>
-			<RemainingCost>144092.1</RemainingCost>
+			<RemainingCost>145449.39</RemainingCost>
 			<RemainingWork>PT47H59M6S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -15288,20 +15292,20 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ExternalTask>0</ExternalTask>
 			<EarlyStart>2027-01-15T12:25:12</EarlyStart>
 			<EarlyFinish>2027-01-18T09:50:24</EarlyFinish>
-			<LateStart>2027-02-08T10:19:12</LateStart>
-			<LateFinish>2027-02-08T13:44:24</LateFinish>
+			<LateStart>2027-02-05T12:54:00</LateStart>
+			<LateFinish>2027-02-08T10:19:12</LateFinish>
 			<StartVariance>0</StartVariance>
 			<FinishVariance>0</FinishVariance>
 			<WorkVariance>359000.00</WorkVariance>
 			<FreeSlack>17496</FreeSlack>
-			<TotalSlack>56340</TotalSlack>
-			<StartSlack>56340</StartSlack>
-			<FinishSlack>56340</FinishSlack>
+			<TotalSlack>54288</TotalSlack>
+			<StartSlack>54288</StartSlack>
+			<FinishSlack>54288</FinishSlack>
 			<FixedCost>0</FixedCost>
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>17972.1</Cost>
+			<Cost>18141.39</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -15311,7 +15315,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT5H59M0S</RegularWork>
 			<RemainingDuration>PT3H25M12S</RemainingDuration>
-			<RemainingCost>17972.1</RemainingCost>
+			<RemainingCost>18141.39</RemainingCost>
 			<RemainingWork>PT5H59M6S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -15399,7 +15403,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>162064.2</Cost>
+			<Cost>163590.78</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -15409,7 +15413,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT53H58M0S</RegularWork>
 			<RemainingDuration>PT30H50M24S</RemainingDuration>
-			<RemainingCost>162064.2</RemainingCost>
+			<RemainingCost>163590.78</RemainingCost>
 			<RemainingWork>PT53H58M12S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -15525,7 +15529,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>53916.3</Cost>
+			<Cost>54424.17</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -15535,7 +15539,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT17H57M0S</RegularWork>
 			<RemainingDuration>PT10H15M36S</RemainingDuration>
-			<RemainingCost>53916.3</RemainingCost>
+			<RemainingCost>54424.17</RemainingCost>
 			<RemainingWork>PT17H57M18S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -16259,7 +16263,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ManualDuration>PT60H0M0S</ManualDuration>
 			<DurationFormat>21</DurationFormat>
 			<FreeformDurationFormat>21</FreeformDurationFormat>
-			<Work>PT77H53M42S</Work>
+			<Work>PT80H27M36S</Work>
 			<ResumeValid>0</ResumeValid>
 			<EffortDriven>0</EffortDriven>
 			<Recurring>0</Recurring>
@@ -16278,7 +16282,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<LateFinish>2027-02-12T09:00:00</LateFinish>
 			<StartVariance>0</StartVariance>
 			<FinishVariance>0</FinishVariance>
-			<WorkVariance>4674000.00</WorkVariance>
+			<WorkVariance>4828000.00</WorkVariance>
 			<FreeSlack>14400</FreeSlack>
 			<TotalSlack>14400</TotalSlack>
 			<StartSlack>23400</StartSlack>
@@ -16287,7 +16291,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>255584.7</Cost>
+			<Cost>262582.02</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -16295,10 +16299,10 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeCost>0</ActualOvertimeCost>
 			<ActualWork>PT0H0M0S</ActualWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<RegularWork>PT77H54M0S</RegularWork>
+			<RegularWork>PT80H28M0S</RegularWork>
 			<RemainingDuration>PT60H0M0S</RemainingDuration>
-			<RemainingCost>255584.7</RemainingCost>
-			<RemainingWork>PT77H53M42S</RemainingWork>
+			<RemainingCost>262582.02</RemainingCost>
+			<RemainingWork>PT80H27M36S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
 			<ACWP>0.00</ACWP>
@@ -16362,7 +16366,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ManualDuration>PT60H0M0S</ManualDuration>
 			<DurationFormat>21</DurationFormat>
 			<FreeformDurationFormat>21</FreeformDurationFormat>
-			<Work>PT41H53M42S</Work>
+			<Work>PT44H27M36S</Work>
 			<ResumeValid>0</ResumeValid>
 			<EffortDriven>0</EffortDriven>
 			<Recurring>0</Recurring>
@@ -16381,7 +16385,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<LateFinish>2027-02-12T09:00:00</LateFinish>
 			<StartVariance>0</StartVariance>
 			<FinishVariance>0</FinishVariance>
-			<WorkVariance>2514000.00</WorkVariance>
+			<WorkVariance>2668000.00</WorkVariance>
 			<FreeSlack>14400</FreeSlack>
 			<TotalSlack>14400</TotalSlack>
 			<StartSlack>36792</StartSlack>
@@ -16390,7 +16394,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>125804.7</Cost>
+			<Cost>132802.02</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -16398,10 +16402,10 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeCost>0</ActualOvertimeCost>
 			<ActualWork>PT0H0M0S</ActualWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<RegularWork>PT41H54M0S</RegularWork>
+			<RegularWork>PT44H28M0S</RegularWork>
 			<RemainingDuration>PT60H0M0S</RemainingDuration>
-			<RemainingCost>125804.7</RemainingCost>
-			<RemainingWork>PT41H53M42S</RemainingWork>
+			<RemainingCost>132802.02</RemainingCost>
+			<RemainingWork>PT44H27M36S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
 			<ACWP>0.00</ACWP>
@@ -16458,14 +16462,14 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<OutlineLevel>5</OutlineLevel>
 			<Priority>500</Priority>
 			<Start>2027-01-25T09:00:00</Start>
-			<Finish>2027-01-26T13:15:36</Finish>
-			<Duration>PT10H15M36S</Duration>
+			<Finish>2027-01-27T10:40:48</Finish>
+			<Duration>PT13H40M48S</Duration>
 			<ManualStart>2027-01-25T09:00:00</ManualStart>
-			<ManualFinish>2027-01-26T13:15:36</ManualFinish>
-			<ManualDuration>PT10H15M36S</ManualDuration>
+			<ManualFinish>2027-01-27T10:40:48</ManualFinish>
+			<ManualDuration>PT13H40M48S</ManualDuration>
 			<DurationFormat>7</DurationFormat>
 			<FreeformDurationFormat>7</FreeformDurationFormat>
-			<Work>PT17H57M18S</Work>
+			<Work>PT20H31M12S</Work>
 			<ResumeValid>0</ResumeValid>
 			<EffortDriven>0</EffortDriven>
 			<Recurring>0</Recurring>
@@ -16479,21 +16483,21 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<IsSubprojectReadOnly>0</IsSubprojectReadOnly>
 			<ExternalTask>0</ExternalTask>
 			<EarlyStart>2027-01-25T09:00:00</EarlyStart>
-			<EarlyFinish>2027-01-26T13:15:36</EarlyFinish>
-			<LateStart>2027-02-08T13:44:24</LateStart>
+			<EarlyFinish>2027-01-27T10:40:48</EarlyFinish>
+			<LateStart>2027-02-08T10:19:12</LateStart>
 			<LateFinish>2027-02-10T12:00:00</LateFinish>
 			<StartVariance>0</StartVariance>
 			<FinishVariance>0</FinishVariance>
-			<WorkVariance>1077000.00</WorkVariance>
-			<FreeSlack>19044</FreeSlack>
-			<TotalSlack>38844</TotalSlack>
-			<StartSlack>38844</StartSlack>
-			<FinishSlack>38844</FinishSlack>
+			<WorkVariance>1231000.00</WorkVariance>
+			<FreeSlack>16992</FreeSlack>
+			<TotalSlack>36792</TotalSlack>
+			<StartSlack>36792</StartSlack>
+			<FinishSlack>36792</FinishSlack>
 			<FixedCost>0</FixedCost>
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>53916.3</Cost>
+			<Cost>60236.46</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -16501,10 +16505,10 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeCost>0</ActualOvertimeCost>
 			<ActualWork>PT0H0M0S</ActualWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<RegularWork>PT17H57M0S</RegularWork>
-			<RemainingDuration>PT10H15M36S</RemainingDuration>
-			<RemainingCost>53916.3</RemainingCost>
-			<RemainingWork>PT17H57M18S</RemainingWork>
+			<RegularWork>PT20H31M0S</RegularWork>
+			<RemainingDuration>PT13H40M48S</RemainingDuration>
+			<RemainingCost>60236.46</RemainingCost>
+			<RemainingWork>PT20H31M12S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
 			<ACWP>0.00</ACWP>
@@ -16631,7 +16635,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>71888.4</Cost>
+			<Cost>72565.56</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -16641,7 +16645,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT23H56M0S</RegularWork>
 			<RemainingDuration>PT13H40M48S</RemainingDuration>
-			<RemainingCost>71888.4</RemainingCost>
+			<RemainingCost>72565.56</RemainingCost>
 			<RemainingWork>PT23H56M24S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -17243,7 +17247,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>492000</Cost>
+			<Cost>495150</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -17253,7 +17257,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT139H30M0S</RegularWork>
 			<RemainingDuration>PT228H0M0S</RemainingDuration>
-			<RemainingCost>492000</RemainingCost>
+			<RemainingCost>495150</RemainingCost>
 			<RemainingWork>PT139H30M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -18529,7 +18533,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>147000</Cost>
+			<Cost>150150</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -18539,7 +18543,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT42H0M0S</RegularWork>
 			<RemainingDuration>PT42H0M0S</RemainingDuration>
-			<RemainingCost>147000</RemainingCost>
+			<RemainingCost>150150</RemainingCost>
 			<RemainingWork>PT42H0M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -18749,7 +18753,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>105000</Cost>
+			<Cost>108150</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -18759,7 +18763,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT30H0M0S</RegularWork>
 			<RemainingDuration>PT30H0M0S</RemainingDuration>
-			<RemainingCost>105000</RemainingCost>
+			<RemainingCost>108150</RemainingCost>
 			<RemainingWork>PT30H0M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -18847,7 +18851,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>295335</Cost>
+			<Cost>296595</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -18857,7 +18861,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT82H30M0S</RegularWork>
 			<RemainingDuration>PT270H0M0S</RemainingDuration>
-			<RemainingCost>295335</RemainingCost>
+			<RemainingCost>296595</RemainingCost>
 			<RemainingWork>PT82H30M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -19450,7 +19454,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>84000</Cost>
+			<Cost>85260</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -19460,7 +19464,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT24H0M0S</RegularWork>
 			<RemainingDuration>PT42H0M0S</RemainingDuration>
-			<RemainingCost>84000</RemainingCost>
+			<RemainingCost>85260</RemainingCost>
 			<RemainingWork>PT24H0M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -19877,7 +19881,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<FixedCostAccrual>3</FixedCostAccrual>
 			<PercentComplete>0</PercentComplete>
 			<PercentWorkComplete>0</PercentWorkComplete>
-			<Cost>42000</Cost>
+			<Cost>43260</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualDuration>PT0H0M0S</ActualDuration>
@@ -19887,7 +19891,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT12H0M0S</RegularWork>
 			<RemainingDuration>PT12H0M0S</RemainingDuration>
-			<RemainingCost>42000</RemainingCost>
+			<RemainingCost>43260</RemainingCost>
 			<RemainingWork>PT12H0M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
@@ -24067,7 +24071,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<UID>3</UID>
 			<GUID>16E34F12-67E0-F111-8443-749779859216</GUID>
 			<ID>2</ID>
-			<Name>Técncio de sistemas - 2026</Name>
+			<Name>Técnico de sistemas - 2026</Name>
 			<Type>1</Type>
 			<IsNull>0</IsNull>
 			<Initials>RH-0152-E2-2026</Initials>
@@ -24298,27 +24302,27 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<OverAllocated>1</OverAllocated>
 			<CanLevel>1</CanLevel>
 			<AccrueAt>3</AccrueAt>
-			<Work>PT229H3M54S</Work>
-			<RegularWork>PT229H3M54S</RegularWork>
+			<Work>PT177H43M12S</Work>
+			<RegularWork>PT177H43M12S</RegularWork>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualWork>PT0H0M0S</ActualWork>
-			<RemainingWork>PT229H3M54S</RemainingWork>
+			<RemainingWork>PT177H43M12S</RemainingWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
 			<PercentWorkComplete>0</PercentWorkComplete>
 			<StandardRate>22</StandardRate>
 			<StandardRateFormat>2</StandardRateFormat>
-			<Cost>503943</Cost>
+			<Cost>390984</Cost>
 			<OvertimeRate>0</OvertimeRate>
 			<OvertimeRateFormat>2</OvertimeRateFormat>
 			<OvertimeCost>0</OvertimeCost>
 			<CostPerUse>0</CostPerUse>
 			<ActualCost>0</ActualCost>
 			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<RemainingCost>503943</RemainingCost>
+			<RemainingCost>390984</RemainingCost>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<WorkVariance>13744000.00</WorkVariance>
-			<CostVariance>503943</CostVariance>
+			<WorkVariance>10663000.00</WorkVariance>
+			<CostVariance>390984</CostVariance>
 			<SV>0.00</SV>
 			<CV>0.00</CV>
 			<ACWP>0.00</ACWP>
@@ -24396,7 +24400,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<UID>11</UID>
 			<GUID>1CE34F12-67E0-F111-8443-749779859216</GUID>
 			<ID>8</ID>
-			<Name>Técncio de sistemas - 2027</Name>
+			<Name>Técnico de sistemas - 2027</Name>
 			<Type>1</Type>
 			<IsNull>0</IsNull>
 			<Initials>RH-0152-E2-2027</Initials>
@@ -24623,31 +24627,31 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<Code>RH-0457-E1-2027</Code>
 			<Group>Equipo 1</Group>
 			<MaxUnits>1.00</MaxUnits>
-			<PeakUnits>1.00</PeakUnits>
-			<OverAllocated>0</OverAllocated>
+			<PeakUnits>1.75</PeakUnits>
+			<OverAllocated>1</OverAllocated>
 			<CanLevel>1</CanLevel>
 			<AccrueAt>3</AccrueAt>
-			<Work>PT10H30M0S</Work>
-			<RegularWork>PT10H30M0S</RegularWork>
+			<Work>PT64H24M36S</Work>
+			<RegularWork>PT64H24M36S</RegularWork>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualWork>PT0H0M0S</ActualWork>
-			<RemainingWork>PT10H30M0S</RemainingWork>
+			<RemainingWork>PT64H24M36S</RemainingWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
 			<PercentWorkComplete>0</PercentWorkComplete>
 			<StandardRate>22.66</StandardRate>
 			<StandardRateFormat>2</StandardRateFormat>
-			<Cost>23793</Cost>
+			<Cost>145953.06</Cost>
 			<OvertimeRate>0</OvertimeRate>
 			<OvertimeRateFormat>2</OvertimeRateFormat>
 			<OvertimeCost>0</OvertimeCost>
 			<CostPerUse>0</CostPerUse>
 			<ActualCost>0</ActualCost>
 			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<RemainingCost>23793</RemainingCost>
+			<RemainingCost>145953.06</RemainingCost>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<WorkVariance>630000.00</WorkVariance>
-			<CostVariance>23793</CostVariance>
+			<WorkVariance>3865000.00</WorkVariance>
+			<CostVariance>145953.06</CostVariance>
 			<SV>0.00</SV>
 			<CV>0.00</CV>
 			<ACWP>0.00</ACWP>
@@ -24682,27 +24686,27 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<OverAllocated>1</OverAllocated>
 			<CanLevel>1</CanLevel>
 			<AccrueAt>3</AccrueAt>
-			<Work>PT435H18M0S</Work>
-			<RegularWork>PT435H18M0S</RegularWork>
+			<Work>PT420H39M36S</Work>
+			<RegularWork>PT420H39M36S</RegularWork>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualWork>PT0H0M0S</ActualWork>
-			<RemainingWork>PT435H18M0S</RemainingWork>
+			<RemainingWork>PT420H39M36S</RemainingWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
 			<PercentWorkComplete>0</PercentWorkComplete>
 			<StandardRate>35</StandardRate>
 			<StandardRateFormat>2</StandardRateFormat>
-			<Cost>1523550</Cost>
+			<Cost>1472310</Cost>
 			<OvertimeRate>0</OvertimeRate>
 			<OvertimeRateFormat>2</OvertimeRateFormat>
 			<OvertimeCost>0</OvertimeCost>
 			<CostPerUse>0</CostPerUse>
 			<ActualCost>0</ActualCost>
 			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<RemainingCost>1523550</RemainingCost>
+			<RemainingCost>1472310</RemainingCost>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<WorkVariance>26118000.00</WorkVariance>
-			<CostVariance>1523550</CostVariance>
+			<WorkVariance>25240000.00</WorkVariance>
+			<CostVariance>1472310</CostVariance>
 			<SV>0.00</SV>
 			<CV>0.00</CV>
 			<ACWP>0.00</ACWP>
@@ -24733,31 +24737,31 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<Code>RH-0331-E2-2027</Code>
 			<Group>Equipo 2</Group>
 			<MaxUnits>1.00</MaxUnits>
-			<PeakUnits>2.00</PeakUnits>
+			<PeakUnits>3.00</PeakUnits>
 			<OverAllocated>1</OverAllocated>
 			<CanLevel>1</CanLevel>
 			<AccrueAt>3</AccrueAt>
-			<Work>PT81H46M48S</Work>
-			<RegularWork>PT81H46M48S</RegularWork>
+			<Work>PT96H25M12S</Work>
+			<RegularWork>PT96H25M12S</RegularWork>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualWork>PT0H0M0S</ActualWork>
-			<RemainingWork>PT81H46M48S</RemainingWork>
+			<RemainingWork>PT96H25M12S</RemainingWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
 			<PercentWorkComplete>0</PercentWorkComplete>
 			<StandardRate>36.05</StandardRate>
 			<StandardRateFormat>2</StandardRateFormat>
-			<Cost>294816.9</Cost>
+			<Cost>347594.1</Cost>
 			<OvertimeRate>0</OvertimeRate>
 			<OvertimeRateFormat>2</OvertimeRateFormat>
 			<OvertimeCost>0</OvertimeCost>
 			<CostPerUse>0</CostPerUse>
 			<ActualCost>0</ActualCost>
 			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<RemainingCost>294816.9</RemainingCost>
+			<RemainingCost>347594.1</RemainingCost>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<WorkVariance>4907000.00</WorkVariance>
-			<CostVariance>294816.9</CostVariance>
+			<WorkVariance>5785000.00</WorkVariance>
+			<CostVariance>347594.1</CostVariance>
 			<SV>0.00</SV>
 			<CV>0.00</CV>
 			<ACWP>0.00</ACWP>
@@ -25122,27 +25126,27 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<OverAllocated>1</OverAllocated>
 			<CanLevel>1</CanLevel>
 			<AccrueAt>3</AccrueAt>
-			<Work>PT152H11M24S</Work>
-			<RegularWork>PT152H11M24S</RegularWork>
+			<Work>PT131H37M30S</Work>
+			<RegularWork>PT131H37M30S</RegularWork>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualWork>PT0H0M0S</ActualWork>
-			<RemainingWork>PT152H11M24S</RemainingWork>
+			<RemainingWork>PT131H37M30S</RemainingWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
 			<PercentWorkComplete>0</PercentWorkComplete>
 			<StandardRate>22</StandardRate>
 			<StandardRateFormat>2</StandardRateFormat>
-			<Cost>334818</Cost>
+			<Cost>289575</Cost>
 			<OvertimeRate>0</OvertimeRate>
 			<OvertimeRateFormat>2</OvertimeRateFormat>
 			<OvertimeCost>0</OvertimeCost>
 			<CostPerUse>0</CostPerUse>
 			<ActualCost>0</ActualCost>
 			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<RemainingCost>334818</RemainingCost>
+			<RemainingCost>289575</RemainingCost>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<WorkVariance>9131000.00</WorkVariance>
-			<CostVariance>334818</CostVariance>
+			<WorkVariance>7898000.00</WorkVariance>
+			<CostVariance>289575</CostVariance>
 			<SV>0.00</SV>
 			<CV>0.00</CV>
 			<ACWP>0.00</ACWP>
@@ -25490,6 +25494,61 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<ExtendedAttribute>
 				<FieldID>205521140</FieldID>
 				<Value>2026</Value>
+			</ExtendedAttribute>
+		</Resource>
+		<Resource>
+			<UID>33</UID>
+			<GUID>22A1A24D-1BE1-F111-8443-749779859216</GUID>
+			<ID>28</ID>
+			<Name>Desarrollador Junior - 2027</Name>
+			<Type>1</Type>
+			<IsNull>0</IsNull>
+			<Initials>RH-0462-E2-2027</Initials>
+			<Code>RH-0462-E2-2027</Code>
+			<Group>Equipo 2</Group>
+			<MaxUnits>0.75</MaxUnits>
+			<PeakUnits>0.75</PeakUnits>
+			<OverAllocated>0</OverAllocated>
+			<CanLevel>1</CanLevel>
+			<AccrueAt>3</AccrueAt>
+			<Work>PT20H33M54S</Work>
+			<RegularWork>PT20H33M54S</RegularWork>
+			<OvertimeWork>PT0H0M0S</OvertimeWork>
+			<ActualWork>PT0H0M0S</ActualWork>
+			<RemainingWork>PT20H33M54S</RemainingWork>
+			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
+			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
+			<PercentWorkComplete>0</PercentWorkComplete>
+			<StandardRate>22.66</StandardRate>
+			<StandardRateFormat>2</StandardRateFormat>
+			<Cost>46600.29</Cost>
+			<OvertimeRate>0</OvertimeRate>
+			<OvertimeRateFormat>2</OvertimeRateFormat>
+			<OvertimeCost>0</OvertimeCost>
+			<CostPerUse>0</CostPerUse>
+			<ActualCost>0</ActualCost>
+			<ActualOvertimeCost>0</ActualOvertimeCost>
+			<RemainingCost>46600.29</RemainingCost>
+			<RemainingOvertimeCost>0</RemainingOvertimeCost>
+			<WorkVariance>1234000.00</WorkVariance>
+			<CostVariance>46600.29</CostVariance>
+			<SV>0.00</SV>
+			<CV>0.00</CV>
+			<ACWP>0.00</ACWP>
+			<CalendarUID>36</CalendarUID>
+			<Notes>Línea 2 (RF-05 a RF-08): Responde de EP-03, EP-04, EP-06 y EP-07, NOR-04 + Informe de Requisitos</Notes>
+			<BCWS>0.00</BCWS>
+			<BCWP>0.00</BCWP>
+			<IsGeneric>0</IsGeneric>
+			<IsInactive>0</IsInactive>
+			<IsEnterprise>0</IsEnterprise>
+			<BookingType>0</BookingType>
+			<CreationDate>2026-11-11T11:06:00</CreationDate>
+			<IsCostResource>0</IsCostResource>
+			<IsBudget>0</IsBudget>
+			<ExtendedAttribute>
+				<FieldID>205521140</FieldID>
+				<Value>2027</Value>
 			</ExtendedAttribute>
 		</Resource>
 	</Resources>
@@ -32161,112 +32220,6 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			</TimephasedData>
 		</Assignment>
 		<Assignment>
-			<UID>523</UID>
-			<GUID>93E34F12-67E0-F111-8443-749779859216</GUID>
-			<TaskUID>466</TaskUID>
-			<ResourceUID>17</ResourceUID>
-			<PercentWorkComplete>0</PercentWorkComplete>
-			<ActualCost>0</ActualCost>
-			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<ActualWork>PT0H0M0S</ActualWork>
-			<ACWP>0.00</ACWP>
-			<Confirmed>0</Confirmed>
-			<Cost>105000</Cost>
-			<CostRateTable>0</CostRateTable>
-			<RateScale>0</RateScale>
-			<CostVariance>105000</CostVariance>
-			<CV>0.00</CV>
-			<Delay>0</Delay>
-			<Finish>2027-01-12T15:00:00</Finish>
-			<FinishVariance>0</FinishVariance>
-			<WorkVariance>1800000.00</WorkVariance>
-			<HasFixedRateUnits>1</HasFixedRateUnits>
-			<FixedMaterial>0</FixedMaterial>
-			<LevelingDelay>0</LevelingDelay>
-			<LevelingDelayFormat>7</LevelingDelayFormat>
-			<LinkedFields>0</LinkedFields>
-			<Milestone>0</Milestone>
-			<Overallocated>0</Overallocated>
-			<OvertimeCost>0</OvertimeCost>
-			<OvertimeWork>PT0H0M0S</OvertimeWork>
-			<RegularWork>PT30H0M0S</RegularWork>
-			<RemainingCost>105000</RemainingCost>
-			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<RemainingWork>PT30H0M0S</RemainingWork>
-			<ResponsePending>0</ResponsePending>
-			<Start>2027-01-05T09:00:00</Start>
-			<StartVariance>0</StartVariance>
-			<Units>1</Units>
-			<UpdateNeeded>0</UpdateNeeded>
-			<VAC>0.00</VAC>
-			<Work>PT30H0M0S</Work>
-			<WorkContour>0</WorkContour>
-			<BCWS>0.00</BCWS>
-			<BCWP>0.00</BCWP>
-			<BookingType>0</BookingType>
-			<CreationDate>2026-11-05T16:14:00</CreationDate>
-			<BudgetCost>0</BudgetCost>
-			<BudgetWork>PT0H0M0S</BudgetWork>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>523</UID>
-				<Start>2027-01-05T09:00:00</Start>
-				<Finish>2027-01-06T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT6H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>523</UID>
-				<Start>2027-01-06T09:00:00</Start>
-				<Finish>2027-01-07T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT0H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>523</UID>
-				<Start>2027-01-07T09:00:00</Start>
-				<Finish>2027-01-08T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT6H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>523</UID>
-				<Start>2027-01-08T09:00:00</Start>
-				<Finish>2027-01-09T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT6H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>523</UID>
-				<Start>2027-01-09T09:00:00</Start>
-				<Finish>2027-01-11T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT0H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>523</UID>
-				<Start>2027-01-11T09:00:00</Start>
-				<Finish>2027-01-12T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT6H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>523</UID>
-				<Start>2027-01-12T09:00:00</Start>
-				<Finish>2027-01-12T15:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT6H0M0S</Value>
-			</TimephasedData>
-		</Assignment>
-		<Assignment>
 			<UID>528</UID>
 			<GUID>94E34F12-67E0-F111-8443-749779859216</GUID>
 			<TaskUID>471</TaskUID>
@@ -33782,72 +33735,6 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 				<Finish>2027-01-11T12:00:00</Finish>
 				<Unit>1</Unit>
 				<Value>PT0H45M0S</Value>
-			</TimephasedData>
-		</Assignment>
-		<Assignment>
-			<UID>557</UID>
-			<GUID>ABE34F12-67E0-F111-8443-749779859216</GUID>
-			<TaskUID>498</TaskUID>
-			<ResourceUID>17</ResourceUID>
-			<PercentWorkComplete>0</PercentWorkComplete>
-			<ActualCost>0</ActualCost>
-			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<ActualWork>PT0H0M0S</ActualWork>
-			<ACWP>0.00</ACWP>
-			<Confirmed>0</Confirmed>
-			<Cost>42000</Cost>
-			<CostRateTable>0</CostRateTable>
-			<RateScale>0</RateScale>
-			<CostVariance>42000</CostVariance>
-			<CV>0.00</CV>
-			<Delay>0</Delay>
-			<Finish>2027-01-08T15:00:00</Finish>
-			<FinishVariance>0</FinishVariance>
-			<WorkVariance>720000.00</WorkVariance>
-			<HasFixedRateUnits>1</HasFixedRateUnits>
-			<FixedMaterial>0</FixedMaterial>
-			<LevelingDelay>0</LevelingDelay>
-			<LevelingDelayFormat>7</LevelingDelayFormat>
-			<LinkedFields>0</LinkedFields>
-			<Milestone>0</Milestone>
-			<Overallocated>0</Overallocated>
-			<OvertimeCost>0</OvertimeCost>
-			<OvertimeWork>PT0H0M0S</OvertimeWork>
-			<RegularWork>PT12H0M0S</RegularWork>
-			<RemainingCost>42000</RemainingCost>
-			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<RemainingWork>PT12H0M0S</RemainingWork>
-			<ResponsePending>0</ResponsePending>
-			<Start>2027-01-07T09:00:00</Start>
-			<StartVariance>0</StartVariance>
-			<Units>1</Units>
-			<UpdateNeeded>0</UpdateNeeded>
-			<VAC>0.00</VAC>
-			<Work>PT12H0M0S</Work>
-			<WorkContour>0</WorkContour>
-			<BCWS>0.00</BCWS>
-			<BCWP>0.00</BCWP>
-			<BookingType>0</BookingType>
-			<CreationDate>2026-11-11T12:50:00</CreationDate>
-			<BudgetCost>0</BudgetCost>
-			<BudgetWork>PT0H0M0S</BudgetWork>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>557</UID>
-				<Start>2027-01-07T09:00:00</Start>
-				<Finish>2027-01-08T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT6H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>557</UID>
-				<Start>2027-01-08T09:00:00</Start>
-				<Finish>2027-01-08T15:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT6H0M0S</Value>
 			</TimephasedData>
 		</Assignment>
 		<Assignment>
@@ -36621,80 +36508,6 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			</TimephasedData>
 		</Assignment>
 		<Assignment>
-			<UID>613</UID>
-			<GUID>D1E34F12-67E0-F111-8443-749779859216</GUID>
-			<TaskUID>480</TaskUID>
-			<ResourceUID>18</ResourceUID>
-			<PercentWorkComplete>0</PercentWorkComplete>
-			<ActualCost>0</ActualCost>
-			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<ActualWork>PT0H0M0S</ActualWork>
-			<ACWP>0.00</ACWP>
-			<Confirmed>0</Confirmed>
-			<Cost>49316.4</Cost>
-			<CostRateTable>0</CostRateTable>
-			<RateScale>0</RateScale>
-			<CostVariance>49316.4</CostVariance>
-			<CV>0.00</CV>
-			<Delay>0</Delay>
-			<Finish>2026-12-02T11:31:12</Finish>
-			<FinishVariance>0</FinishVariance>
-			<WorkVariance>821000.00</WorkVariance>
-			<HasFixedRateUnits>1</HasFixedRateUnits>
-			<FixedMaterial>0</FixedMaterial>
-			<LevelingDelay>0</LevelingDelay>
-			<LevelingDelayFormat>7</LevelingDelayFormat>
-			<LinkedFields>0</LinkedFields>
-			<Milestone>0</Milestone>
-			<Overallocated>0</Overallocated>
-			<OvertimeCost>0</OvertimeCost>
-			<OvertimeWork>PT0H0M0S</OvertimeWork>
-			<RegularWork>PT13H40M48S</RegularWork>
-			<RemainingCost>49316.4</RemainingCost>
-			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<RemainingWork>PT13H40M48S</RemainingWork>
-			<ResponsePending>0</ResponsePending>
-			<Start>2026-11-30T09:50:24</Start>
-			<StartVariance>0</StartVariance>
-			<Units>1</Units>
-			<UpdateNeeded>0</UpdateNeeded>
-			<VAC>0.00</VAC>
-			<Work>PT13H40M48S</Work>
-			<WorkContour>0</WorkContour>
-			<BCWS>0.00</BCWS>
-			<BCWP>0.00</BCWP>
-			<BookingType>0</BookingType>
-			<CreationDate>2026-11-11T12:42:00</CreationDate>
-			<BudgetCost>0</BudgetCost>
-			<BudgetWork>PT0H0M0S</BudgetWork>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>613</UID>
-				<Start>2026-11-30T09:50:24</Start>
-				<Finish>2026-12-01T09:50:24</Finish>
-				<Unit>1</Unit>
-				<Value>PT6H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>613</UID>
-				<Start>2026-12-01T09:50:24</Start>
-				<Finish>2026-12-02T09:50:24</Finish>
-				<Unit>1</Unit>
-				<Value>PT6H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>613</UID>
-				<Start>2026-12-02T09:50:24</Start>
-				<Finish>2026-12-02T11:31:12</Finish>
-				<Unit>1</Unit>
-				<Value>PT1H40M48S</Value>
-			</TimephasedData>
-		</Assignment>
-		<Assignment>
 			<UID>614</UID>
 			<GUID>D2E34F12-67E0-F111-8443-749779859216</GUID>
 			<TaskUID>366</TaskUID>
@@ -37403,88 +37216,6 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			</TimephasedData>
 		</Assignment>
 		<Assignment>
-			<UID>624</UID>
-			<GUID>DCE34F12-67E0-F111-8443-749779859216</GUID>
-			<TaskUID>489</TaskUID>
-			<ResourceUID>18</ResourceUID>
-			<PercentWorkComplete>0</PercentWorkComplete>
-			<ActualCost>0</ActualCost>
-			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<ActualWork>PT0H0M0S</ActualWork>
-			<ACWP>0.00</ACWP>
-			<Confirmed>0</Confirmed>
-			<Cost>49316.4</Cost>
-			<CostRateTable>0</CostRateTable>
-			<RateScale>0</RateScale>
-			<CostVariance>49316.4</CostVariance>
-			<CV>0.00</CV>
-			<Delay>0</Delay>
-			<Finish>2027-01-05T10:40:48</Finish>
-			<FinishVariance>0</FinishVariance>
-			<WorkVariance>821000.00</WorkVariance>
-			<HasFixedRateUnits>1</HasFixedRateUnits>
-			<FixedMaterial>0</FixedMaterial>
-			<LevelingDelay>0</LevelingDelay>
-			<LevelingDelayFormat>7</LevelingDelayFormat>
-			<LinkedFields>0</LinkedFields>
-			<Milestone>0</Milestone>
-			<Overallocated>0</Overallocated>
-			<OvertimeCost>0</OvertimeCost>
-			<OvertimeWork>PT0H0M0S</OvertimeWork>
-			<RegularWork>PT13H40M48S</RegularWork>
-			<RemainingCost>49316.4</RemainingCost>
-			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<RemainingWork>PT13H40M48S</RemainingWork>
-			<ResponsePending>0</ResponsePending>
-			<Start>2026-12-23T09:00:00</Start>
-			<StartVariance>0</StartVariance>
-			<Units>1</Units>
-			<UpdateNeeded>0</UpdateNeeded>
-			<VAC>0.00</VAC>
-			<Work>PT13H40M48S</Work>
-			<WorkContour>0</WorkContour>
-			<BCWS>0.00</BCWS>
-			<BCWP>0.00</BCWP>
-			<BookingType>0</BookingType>
-			<CreationDate>2026-11-11T12:46:00</CreationDate>
-			<BudgetCost>0</BudgetCost>
-			<BudgetWork>PT0H0M0S</BudgetWork>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>624</UID>
-				<Start>2026-12-23T09:00:00</Start>
-				<Finish>2026-12-24T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT6H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>624</UID>
-				<Start>2026-12-24T09:00:00</Start>
-				<Finish>2027-01-04T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT0H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>624</UID>
-				<Start>2027-01-04T09:00:00</Start>
-				<Finish>2027-01-05T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT6H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>624</UID>
-				<Start>2027-01-05T09:00:00</Start>
-				<Finish>2027-01-05T10:40:48</Finish>
-				<Unit>1</Unit>
-				<Value>PT1H40M48S</Value>
-			</TimephasedData>
-		</Assignment>
-		<Assignment>
 			<UID>625</UID>
 			<GUID>DDE34F12-67E0-F111-8443-749779859216</GUID>
 			<TaskUID>410</TaskUID>
@@ -37721,156 +37452,6 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<BCWP>0.00</BCWP>
 			<BookingType>0</BookingType>
 			<CreationDate>2026-11-11T23:13:00</CreationDate>
-			<BudgetCost>0</BudgetCost>
-			<BudgetWork>PT0H0M0S</BudgetWork>
-		</Assignment>
-		<Assignment>
-			<UID>629</UID>
-			<GUID>E1E34F12-67E0-F111-8443-749779859216</GUID>
-			<TaskUID>350</TaskUID>
-			<ResourceUID>29</ResourceUID>
-			<PercentWorkComplete>0</PercentWorkComplete>
-			<ActualCost>0</ActualCost>
-			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<ActualWork>PT0H0M0S</ActualWork>
-			<ACWP>0.00</ACWP>
-			<Confirmed>0</Confirmed>
-			<Cost>0</Cost>
-			<CostRateTable>0</CostRateTable>
-			<RateScale>0</RateScale>
-			<CostVariance>0</CostVariance>
-			<CV>0.00</CV>
-			<Delay>0</Delay>
-			<Finish>2026-10-05T09:00:00</Finish>
-			<FinishVariance>0</FinishVariance>
-			<WorkVariance>0.00</WorkVariance>
-			<HasFixedRateUnits>1</HasFixedRateUnits>
-			<FixedMaterial>0</FixedMaterial>
-			<LevelingDelay>0</LevelingDelay>
-			<LevelingDelayFormat>7</LevelingDelayFormat>
-			<LinkedFields>0</LinkedFields>
-			<Milestone>1</Milestone>
-			<Overallocated>0</Overallocated>
-			<OvertimeCost>0</OvertimeCost>
-			<OvertimeWork>PT0H0M0S</OvertimeWork>
-			<RegularWork>PT0H0M0S</RegularWork>
-			<RemainingCost>0</RemainingCost>
-			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<RemainingWork>PT0H0M0S</RemainingWork>
-			<ResponsePending>0</ResponsePending>
-			<Start>2026-10-05T09:00:00</Start>
-			<StartVariance>0</StartVariance>
-			<Units>0.25</Units>
-			<UpdateNeeded>0</UpdateNeeded>
-			<VAC>0.00</VAC>
-			<Work>PT0H0M0S</Work>
-			<WorkContour>0</WorkContour>
-			<BCWS>0.00</BCWS>
-			<BCWP>0.00</BCWP>
-			<BookingType>0</BookingType>
-			<CreationDate>2026-11-11T23:15:00</CreationDate>
-			<BudgetCost>0</BudgetCost>
-			<BudgetWork>PT0H0M0S</BudgetWork>
-		</Assignment>
-		<Assignment>
-			<UID>630</UID>
-			<GUID>E2E34F12-67E0-F111-8443-749779859216</GUID>
-			<TaskUID>350</TaskUID>
-			<ResourceUID>27</ResourceUID>
-			<PercentWorkComplete>0</PercentWorkComplete>
-			<ActualCost>0</ActualCost>
-			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<ActualWork>PT0H0M0S</ActualWork>
-			<ACWP>0.00</ACWP>
-			<Confirmed>0</Confirmed>
-			<Cost>0</Cost>
-			<CostRateTable>0</CostRateTable>
-			<RateScale>0</RateScale>
-			<CostVariance>0</CostVariance>
-			<CV>0.00</CV>
-			<Delay>0</Delay>
-			<Finish>2026-10-05T09:00:00</Finish>
-			<FinishVariance>0</FinishVariance>
-			<WorkVariance>0.00</WorkVariance>
-			<HasFixedRateUnits>1</HasFixedRateUnits>
-			<FixedMaterial>0</FixedMaterial>
-			<LevelingDelay>0</LevelingDelay>
-			<LevelingDelayFormat>7</LevelingDelayFormat>
-			<LinkedFields>0</LinkedFields>
-			<Milestone>1</Milestone>
-			<Overallocated>0</Overallocated>
-			<OvertimeCost>0</OvertimeCost>
-			<OvertimeWork>PT0H0M0S</OvertimeWork>
-			<RegularWork>PT0H0M0S</RegularWork>
-			<RemainingCost>0</RemainingCost>
-			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<RemainingWork>PT0H0M0S</RemainingWork>
-			<ResponsePending>0</ResponsePending>
-			<Start>2026-10-05T09:00:00</Start>
-			<StartVariance>0</StartVariance>
-			<Units>0.25</Units>
-			<UpdateNeeded>0</UpdateNeeded>
-			<VAC>0.00</VAC>
-			<Work>PT0H0M0S</Work>
-			<WorkContour>0</WorkContour>
-			<BCWS>0.00</BCWS>
-			<BCWP>0.00</BCWP>
-			<BookingType>0</BookingType>
-			<CreationDate>2026-11-11T23:15:00</CreationDate>
-			<BudgetCost>0</BudgetCost>
-			<BudgetWork>PT0H0M0S</BudgetWork>
-		</Assignment>
-		<Assignment>
-			<UID>631</UID>
-			<GUID>E3E34F12-67E0-F111-8443-749779859216</GUID>
-			<TaskUID>350</TaskUID>
-			<ResourceUID>32</ResourceUID>
-			<PercentWorkComplete>0</PercentWorkComplete>
-			<ActualCost>0</ActualCost>
-			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<ActualWork>PT0H0M0S</ActualWork>
-			<ACWP>0.00</ACWP>
-			<Confirmed>0</Confirmed>
-			<Cost>0</Cost>
-			<CostRateTable>0</CostRateTable>
-			<RateScale>0</RateScale>
-			<CostVariance>0</CostVariance>
-			<CV>0.00</CV>
-			<Delay>0</Delay>
-			<Finish>2026-10-05T09:00:00</Finish>
-			<FinishVariance>0</FinishVariance>
-			<WorkVariance>0.00</WorkVariance>
-			<HasFixedRateUnits>1</HasFixedRateUnits>
-			<FixedMaterial>0</FixedMaterial>
-			<LevelingDelay>0</LevelingDelay>
-			<LevelingDelayFormat>7</LevelingDelayFormat>
-			<LinkedFields>0</LinkedFields>
-			<Milestone>1</Milestone>
-			<Overallocated>0</Overallocated>
-			<OvertimeCost>0</OvertimeCost>
-			<OvertimeWork>PT0H0M0S</OvertimeWork>
-			<RegularWork>PT0H0M0S</RegularWork>
-			<RemainingCost>0</RemainingCost>
-			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<RemainingWork>PT0H0M0S</RemainingWork>
-			<ResponsePending>0</ResponsePending>
-			<Start>2026-10-05T09:00:00</Start>
-			<StartVariance>0</StartVariance>
-			<Units>0.25</Units>
-			<UpdateNeeded>0</UpdateNeeded>
-			<VAC>0.00</VAC>
-			<Work>PT0H0M0S</Work>
-			<WorkContour>0</WorkContour>
-			<BCWS>0.00</BCWS>
-			<BCWP>0.00</BCWP>
-			<BookingType>0</BookingType>
-			<CreationDate>2026-11-11T23:15:00</CreationDate>
 			<BudgetCost>0</BudgetCost>
 			<BudgetWork>PT0H0M0S</BudgetWork>
 		</Assignment>
@@ -40581,96 +40162,6 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			</TimephasedData>
 		</Assignment>
 		<Assignment>
-			<UID>685</UID>
-			<GUID>0DE44F12-67E0-F111-8443-749779859216</GUID>
-			<TaskUID>375</TaskUID>
-			<ResourceUID>26</ResourceUID>
-			<PercentWorkComplete>0</PercentWorkComplete>
-			<ActualCost>0</ActualCost>
-			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<ActualWork>PT0H0M0S</ActualWork>
-			<ACWP>0.00</ACWP>
-			<Confirmed>0</Confirmed>
-			<Cost>45243</Cost>
-			<CostRateTable>0</CostRateTable>
-			<RateScale>0</RateScale>
-			<CostVariance>45243</CostVariance>
-			<CV>0.00</CV>
-			<Delay>0</Delay>
-			<Finish>2027-01-15T12:25:12</Finish>
-			<FinishVariance>0</FinishVariance>
-			<WorkVariance>1234000.00</WorkVariance>
-			<HasFixedRateUnits>1</HasFixedRateUnits>
-			<FixedMaterial>0</FixedMaterial>
-			<LevelingDelay>0</LevelingDelay>
-			<LevelingDelayFormat>7</LevelingDelayFormat>
-			<LinkedFields>0</LinkedFields>
-			<Milestone>0</Milestone>
-			<Overallocated>0</Overallocated>
-			<OvertimeCost>0</OvertimeCost>
-			<OvertimeWork>PT0H0M0S</OvertimeWork>
-			<RegularWork>PT20H33M54S</RegularWork>
-			<RemainingCost>45243</RemainingCost>
-			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<RemainingWork>PT20H33M54S</RemainingWork>
-			<ResponsePending>0</ResponsePending>
-			<Start>2027-01-11T09:00:00</Start>
-			<StartVariance>0</StartVariance>
-			<Units>0.75</Units>
-			<UpdateNeeded>0</UpdateNeeded>
-			<VAC>0.00</VAC>
-			<Work>PT20H33M54S</Work>
-			<WorkContour>0</WorkContour>
-			<BCWS>0.00</BCWS>
-			<BCWP>0.00</BCWP>
-			<BookingType>0</BookingType>
-			<CreationDate>2026-11-13T21:08:00</CreationDate>
-			<BudgetCost>0</BudgetCost>
-			<BudgetWork>PT0H0M0S</BudgetWork>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>685</UID>
-				<Start>2027-01-11T09:00:00</Start>
-				<Finish>2027-01-12T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT4H30M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>685</UID>
-				<Start>2027-01-12T09:00:00</Start>
-				<Finish>2027-01-13T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT4H30M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>685</UID>
-				<Start>2027-01-13T09:00:00</Start>
-				<Finish>2027-01-14T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT4H30M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>685</UID>
-				<Start>2027-01-14T09:00:00</Start>
-				<Finish>2027-01-15T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT4H30M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>685</UID>
-				<Start>2027-01-15T09:00:00</Start>
-				<Finish>2027-01-15T12:25:12</Finish>
-				<Unit>1</Unit>
-				<Value>PT2H33M54S</Value>
-			</TimephasedData>
-		</Assignment>
-		<Assignment>
 			<UID>686</UID>
 			<GUID>0EE44F12-67E0-F111-8443-749779859216</GUID>
 			<TaskUID>492</TaskUID>
@@ -40742,80 +40233,6 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 				<Finish>2027-01-18T09:50:24</Finish>
 				<Unit>1</Unit>
 				<Value>PT0H50M24S</Value>
-			</TimephasedData>
-		</Assignment>
-		<Assignment>
-			<UID>687</UID>
-			<GUID>0FE44F12-67E0-F111-8443-749779859216</GUID>
-			<TaskUID>492</TaskUID>
-			<ResourceUID>8</ResourceUID>
-			<PercentWorkComplete>0</PercentWorkComplete>
-			<ActualCost>0</ActualCost>
-			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<ActualWork>PT0H0M0S</ActualWork>
-			<ACWP>0.00</ACWP>
-			<Confirmed>0</Confirmed>
-			<Cost>5643</Cost>
-			<CostRateTable>0</CostRateTable>
-			<RateScale>0</RateScale>
-			<CostVariance>5643</CostVariance>
-			<CV>0.00</CV>
-			<Delay>0</Delay>
-			<Finish>2027-01-18T09:50:24</Finish>
-			<FinishVariance>0</FinishVariance>
-			<WorkVariance>154000.00</WorkVariance>
-			<HasFixedRateUnits>1</HasFixedRateUnits>
-			<FixedMaterial>0</FixedMaterial>
-			<LevelingDelay>0</LevelingDelay>
-			<LevelingDelayFormat>7</LevelingDelayFormat>
-			<LinkedFields>0</LinkedFields>
-			<Milestone>0</Milestone>
-			<Overallocated>0</Overallocated>
-			<OvertimeCost>0</OvertimeCost>
-			<OvertimeWork>PT0H0M0S</OvertimeWork>
-			<RegularWork>PT2H33M54S</RegularWork>
-			<RemainingCost>5643</RemainingCost>
-			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<RemainingWork>PT2H33M54S</RemainingWork>
-			<ResponsePending>0</ResponsePending>
-			<Start>2027-01-15T12:25:12</Start>
-			<StartVariance>0</StartVariance>
-			<Units>0.75</Units>
-			<UpdateNeeded>0</UpdateNeeded>
-			<VAC>0.00</VAC>
-			<Work>PT2H33M54S</Work>
-			<WorkContour>0</WorkContour>
-			<BCWS>0.00</BCWS>
-			<BCWP>0.00</BCWP>
-			<BookingType>0</BookingType>
-			<CreationDate>2026-11-13T21:08:00</CreationDate>
-			<BudgetCost>0</BudgetCost>
-			<BudgetWork>PT0H0M0S</BudgetWork>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>687</UID>
-				<Start>2027-01-15T12:25:12</Start>
-				<Finish>2027-01-16T12:25:12</Finish>
-				<Unit>1</Unit>
-				<Value>PT1H56M6S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>687</UID>
-				<Start>2027-01-16T12:25:12</Start>
-				<Finish>2027-01-18T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT0H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>687</UID>
-				<Start>2027-01-18T09:00:00</Start>
-				<Finish>2027-01-18T09:50:24</Finish>
-				<Unit>1</Unit>
-				<Value>PT0H37M48S</Value>
 			</TimephasedData>
 		</Assignment>
 		<Assignment>
@@ -40925,112 +40342,6 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			</TimephasedData>
 		</Assignment>
 		<Assignment>
-			<UID>689</UID>
-			<GUID>11E44F12-67E0-F111-8443-749779859216</GUID>
-			<TaskUID>491</TaskUID>
-			<ResourceUID>8</ResourceUID>
-			<PercentWorkComplete>0</PercentWorkComplete>
-			<ActualCost>0</ActualCost>
-			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<ActualWork>PT0H0M0S</ActualWork>
-			<ACWP>0.00</ACWP>
-			<Confirmed>0</Confirmed>
-			<Cost>50886</Cost>
-			<CostRateTable>0</CostRateTable>
-			<RateScale>0</RateScale>
-			<CostVariance>50886</CostVariance>
-			<CV>0.00</CV>
-			<Delay>0</Delay>
-			<Finish>2027-01-18T09:50:24</Finish>
-			<FinishVariance>0</FinishVariance>
-			<WorkVariance>1388000.00</WorkVariance>
-			<HasFixedRateUnits>1</HasFixedRateUnits>
-			<FixedMaterial>0</FixedMaterial>
-			<LevelingDelay>0</LevelingDelay>
-			<LevelingDelayFormat>7</LevelingDelayFormat>
-			<LinkedFields>0</LinkedFields>
-			<Milestone>0</Milestone>
-			<Overallocated>0</Overallocated>
-			<OvertimeCost>0</OvertimeCost>
-			<OvertimeWork>PT0H0M0S</OvertimeWork>
-			<RegularWork>PT23H7M48S</RegularWork>
-			<RemainingCost>50886</RemainingCost>
-			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<RemainingWork>PT23H7M48S</RemainingWork>
-			<ResponsePending>0</ResponsePending>
-			<Start>2027-01-11T09:00:00</Start>
-			<StartVariance>0</StartVariance>
-			<Units>0.75</Units>
-			<UpdateNeeded>0</UpdateNeeded>
-			<VAC>0.00</VAC>
-			<Work>PT23H7M48S</Work>
-			<WorkContour>0</WorkContour>
-			<BCWS>0.00</BCWS>
-			<BCWP>0.00</BCWP>
-			<BookingType>0</BookingType>
-			<CreationDate>2026-11-13T21:08:00</CreationDate>
-			<BudgetCost>0</BudgetCost>
-			<BudgetWork>PT0H0M0S</BudgetWork>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>689</UID>
-				<Start>2027-01-11T09:00:00</Start>
-				<Finish>2027-01-12T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT4H30M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>689</UID>
-				<Start>2027-01-12T09:00:00</Start>
-				<Finish>2027-01-13T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT4H30M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>689</UID>
-				<Start>2027-01-13T09:00:00</Start>
-				<Finish>2027-01-14T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT4H30M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>689</UID>
-				<Start>2027-01-14T09:00:00</Start>
-				<Finish>2027-01-15T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT4H30M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>689</UID>
-				<Start>2027-01-15T09:00:00</Start>
-				<Finish>2027-01-16T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT4H30M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>689</UID>
-				<Start>2027-01-16T09:00:00</Start>
-				<Finish>2027-01-18T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT0H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>689</UID>
-				<Start>2027-01-18T09:00:00</Start>
-				<Finish>2027-01-18T09:50:24</Finish>
-				<Unit>1</Unit>
-				<Value>PT0H37M48S</Value>
-			</TimephasedData>
-		</Assignment>
-		<Assignment>
 			<UID>690</UID>
 			<GUID>12E44F12-67E0-F111-8443-749779859216</GUID>
 			<TaskUID>490</TaskUID>
@@ -41097,72 +40408,6 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			</TimephasedData>
 		</Assignment>
 		<Assignment>
-			<UID>691</UID>
-			<GUID>13E44F12-67E0-F111-8443-749779859216</GUID>
-			<TaskUID>490</TaskUID>
-			<ResourceUID>8</ResourceUID>
-			<PercentWorkComplete>0</PercentWorkComplete>
-			<ActualCost>0</ActualCost>
-			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<ActualWork>PT0H0M0S</ActualWork>
-			<ACWP>0.00</ACWP>
-			<Confirmed>0</Confirmed>
-			<Cost>16929</Cost>
-			<CostRateTable>0</CostRateTable>
-			<RateScale>0</RateScale>
-			<CostVariance>16929</CostVariance>
-			<CV>0.00</CV>
-			<Delay>0</Delay>
-			<Finish>2027-01-19T14:06:00</Finish>
-			<FinishVariance>0</FinishVariance>
-			<WorkVariance>462000.00</WorkVariance>
-			<HasFixedRateUnits>1</HasFixedRateUnits>
-			<FixedMaterial>0</FixedMaterial>
-			<LevelingDelay>0</LevelingDelay>
-			<LevelingDelayFormat>7</LevelingDelayFormat>
-			<LinkedFields>0</LinkedFields>
-			<Milestone>0</Milestone>
-			<Overallocated>0</Overallocated>
-			<OvertimeCost>0</OvertimeCost>
-			<OvertimeWork>PT0H0M0S</OvertimeWork>
-			<RegularWork>PT7H41M42S</RegularWork>
-			<RemainingCost>16929</RemainingCost>
-			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<RemainingWork>PT7H41M42S</RemainingWork>
-			<ResponsePending>0</ResponsePending>
-			<Start>2027-01-18T09:50:24</Start>
-			<StartVariance>0</StartVariance>
-			<Units>0.75</Units>
-			<UpdateNeeded>0</UpdateNeeded>
-			<VAC>0.00</VAC>
-			<Work>PT7H41M42S</Work>
-			<WorkContour>0</WorkContour>
-			<BCWS>0.00</BCWS>
-			<BCWP>0.00</BCWP>
-			<BookingType>0</BookingType>
-			<CreationDate>2026-11-13T21:08:00</CreationDate>
-			<BudgetCost>0</BudgetCost>
-			<BudgetWork>PT0H0M0S</BudgetWork>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>691</UID>
-				<Start>2027-01-18T09:50:24</Start>
-				<Finish>2027-01-19T09:50:24</Finish>
-				<Unit>1</Unit>
-				<Value>PT4H30M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>691</UID>
-				<Start>2027-01-19T09:50:24</Start>
-				<Finish>2027-01-19T14:06:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT3H11M42S</Value>
-			</TimephasedData>
-		</Assignment>
-		<Assignment>
 			<UID>698</UID>
 			<GUID>14E44F12-67E0-F111-8443-749779859216</GUID>
 			<TaskUID>378</TaskUID>
@@ -41226,72 +40471,6 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 				<Finish>2027-01-26T13:15:36</Finish>
 				<Unit>1</Unit>
 				<Value>PT4H15M36S</Value>
-			</TimephasedData>
-		</Assignment>
-		<Assignment>
-			<UID>699</UID>
-			<GUID>15E44F12-67E0-F111-8443-749779859216</GUID>
-			<TaskUID>378</TaskUID>
-			<ResourceUID>8</ResourceUID>
-			<PercentWorkComplete>0</PercentWorkComplete>
-			<ActualCost>0</ActualCost>
-			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<ActualWork>PT0H0M0S</ActualWork>
-			<ACWP>0.00</ACWP>
-			<Confirmed>0</Confirmed>
-			<Cost>16929</Cost>
-			<CostRateTable>0</CostRateTable>
-			<RateScale>0</RateScale>
-			<CostVariance>16929</CostVariance>
-			<CV>0.00</CV>
-			<Delay>0</Delay>
-			<Finish>2027-01-26T13:15:36</Finish>
-			<FinishVariance>0</FinishVariance>
-			<WorkVariance>462000.00</WorkVariance>
-			<HasFixedRateUnits>1</HasFixedRateUnits>
-			<FixedMaterial>0</FixedMaterial>
-			<LevelingDelay>0</LevelingDelay>
-			<LevelingDelayFormat>7</LevelingDelayFormat>
-			<LinkedFields>0</LinkedFields>
-			<Milestone>0</Milestone>
-			<Overallocated>0</Overallocated>
-			<OvertimeCost>0</OvertimeCost>
-			<OvertimeWork>PT0H0M0S</OvertimeWork>
-			<RegularWork>PT7H41M42S</RegularWork>
-			<RemainingCost>16929</RemainingCost>
-			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<RemainingWork>PT7H41M42S</RemainingWork>
-			<ResponsePending>0</ResponsePending>
-			<Start>2027-01-25T09:00:00</Start>
-			<StartVariance>0</StartVariance>
-			<Units>0.75</Units>
-			<UpdateNeeded>0</UpdateNeeded>
-			<VAC>0.00</VAC>
-			<Work>PT7H41M42S</Work>
-			<WorkContour>0</WorkContour>
-			<BCWS>0.00</BCWS>
-			<BCWP>0.00</BCWP>
-			<BookingType>0</BookingType>
-			<CreationDate>2026-11-13T21:10:00</CreationDate>
-			<BudgetCost>0</BudgetCost>
-			<BudgetWork>PT0H0M0S</BudgetWork>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>699</UID>
-				<Start>2027-01-25T09:00:00</Start>
-				<Finish>2027-01-26T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT4H30M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>699</UID>
-				<Start>2027-01-26T09:00:00</Start>
-				<Finish>2027-01-26T13:15:36</Finish>
-				<Unit>1</Unit>
-				<Value>PT3H11M42S</Value>
 			</TimephasedData>
 		</Assignment>
 		<Assignment>
@@ -41366,80 +40545,6 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 				<Finish>2027-01-27T10:40:48</Finish>
 				<Unit>1</Unit>
 				<Value>PT1H40M48S</Value>
-			</TimephasedData>
-		</Assignment>
-		<Assignment>
-			<UID>701</UID>
-			<GUID>17E44F12-67E0-F111-8443-749779859216</GUID>
-			<TaskUID>495</TaskUID>
-			<ResourceUID>8</ResourceUID>
-			<PercentWorkComplete>0</PercentWorkComplete>
-			<ActualCost>0</ActualCost>
-			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
-			<ActualWork>PT0H0M0S</ActualWork>
-			<ACWP>0.00</ACWP>
-			<Confirmed>0</Confirmed>
-			<Cost>22572</Cost>
-			<CostRateTable>0</CostRateTable>
-			<RateScale>0</RateScale>
-			<CostVariance>22572</CostVariance>
-			<CV>0.00</CV>
-			<Delay>0</Delay>
-			<Finish>2027-01-27T10:40:48</Finish>
-			<FinishVariance>0</FinishVariance>
-			<WorkVariance>616000.00</WorkVariance>
-			<HasFixedRateUnits>1</HasFixedRateUnits>
-			<FixedMaterial>0</FixedMaterial>
-			<LevelingDelay>0</LevelingDelay>
-			<LevelingDelayFormat>7</LevelingDelayFormat>
-			<LinkedFields>0</LinkedFields>
-			<Milestone>0</Milestone>
-			<Overallocated>0</Overallocated>
-			<OvertimeCost>0</OvertimeCost>
-			<OvertimeWork>PT0H0M0S</OvertimeWork>
-			<RegularWork>PT10H15M36S</RegularWork>
-			<RemainingCost>22572</RemainingCost>
-			<RemainingOvertimeCost>0</RemainingOvertimeCost>
-			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<RemainingWork>PT10H15M36S</RemainingWork>
-			<ResponsePending>0</ResponsePending>
-			<Start>2027-01-25T09:00:00</Start>
-			<StartVariance>0</StartVariance>
-			<Units>0.75</Units>
-			<UpdateNeeded>0</UpdateNeeded>
-			<VAC>0.00</VAC>
-			<Work>PT10H15M36S</Work>
-			<WorkContour>0</WorkContour>
-			<BCWS>0.00</BCWS>
-			<BCWP>0.00</BCWP>
-			<BookingType>0</BookingType>
-			<CreationDate>2026-11-13T21:10:00</CreationDate>
-			<BudgetCost>0</BudgetCost>
-			<BudgetWork>PT0H0M0S</BudgetWork>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>701</UID>
-				<Start>2027-01-25T09:00:00</Start>
-				<Finish>2027-01-26T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT4H30M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>701</UID>
-				<Start>2027-01-26T09:00:00</Start>
-				<Finish>2027-01-27T09:00:00</Finish>
-				<Unit>1</Unit>
-				<Value>PT4H30M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>701</UID>
-				<Start>2027-01-27T09:00:00</Start>
-				<Finish>2027-01-27T10:40:48</Finish>
-				<Unit>1</Unit>
-				<Value>PT1H15M36S</Value>
 			</TimephasedData>
 		</Assignment>
 		<Assignment>
@@ -41604,6 +40709,818 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 				<Finish>2026-12-14T12:00:00</Finish>
 				<Unit>1</Unit>
 				<Value>PT3H0M0S</Value>
+			</TimephasedData>
+		</Assignment>
+		<Assignment>
+			<UID>707</UID>
+			<GUID>F9F25CA2-1BE1-F111-8443-749779859216</GUID>
+			<TaskUID>489</TaskUID>
+			<ResourceUID>17</ResourceUID>
+			<PercentWorkComplete>0</PercentWorkComplete>
+			<ActualCost>0</ActualCost>
+			<ActualOvertimeCost>0</ActualOvertimeCost>
+			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
+			<ActualWork>PT0H0M0S</ActualWork>
+			<ACWP>0.00</ACWP>
+			<Confirmed>0</Confirmed>
+			<Cost>47880</Cost>
+			<CostRateTable>0</CostRateTable>
+			<RateScale>0</RateScale>
+			<CostVariance>47880</CostVariance>
+			<CV>0.00</CV>
+			<Delay>0</Delay>
+			<Finish>2027-01-05T10:40:48</Finish>
+			<FinishVariance>0</FinishVariance>
+			<WorkVariance>821000.00</WorkVariance>
+			<HasFixedRateUnits>1</HasFixedRateUnits>
+			<FixedMaterial>0</FixedMaterial>
+			<LevelingDelay>0</LevelingDelay>
+			<LevelingDelayFormat>7</LevelingDelayFormat>
+			<LinkedFields>0</LinkedFields>
+			<Milestone>0</Milestone>
+			<Overallocated>0</Overallocated>
+			<OvertimeCost>0</OvertimeCost>
+			<OvertimeWork>PT0H0M0S</OvertimeWork>
+			<RegularWork>PT13H40M48S</RegularWork>
+			<RemainingCost>47880</RemainingCost>
+			<RemainingOvertimeCost>0</RemainingOvertimeCost>
+			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
+			<RemainingWork>PT13H40M48S</RemainingWork>
+			<ResponsePending>0</ResponsePending>
+			<Start>2026-12-23T09:00:00</Start>
+			<StartVariance>0</StartVariance>
+			<Units>1</Units>
+			<UpdateNeeded>0</UpdateNeeded>
+			<VAC>0.00</VAC>
+			<Work>PT13H40M48S</Work>
+			<WorkContour>0</WorkContour>
+			<BCWS>0.00</BCWS>
+			<BCWP>0.00</BCWP>
+			<BookingType>0</BookingType>
+			<CreationDate>2026-11-15T18:40:00</CreationDate>
+			<BudgetCost>0</BudgetCost>
+			<BudgetWork>PT0H0M0S</BudgetWork>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>707</UID>
+				<Start>2026-12-23T09:00:00</Start>
+				<Finish>2026-12-24T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT6H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>707</UID>
+				<Start>2026-12-24T09:00:00</Start>
+				<Finish>2027-01-04T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT0H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>707</UID>
+				<Start>2027-01-04T09:00:00</Start>
+				<Finish>2027-01-05T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT6H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>707</UID>
+				<Start>2027-01-05T09:00:00</Start>
+				<Finish>2027-01-05T10:40:48</Finish>
+				<Unit>1</Unit>
+				<Value>PT1H40M48S</Value>
+			</TimephasedData>
+		</Assignment>
+		<Assignment>
+			<UID>708</UID>
+			<GUID>29D725B1-1BE1-F111-8443-749779859216</GUID>
+			<TaskUID>375</TaskUID>
+			<ResourceUID>33</ResourceUID>
+			<PercentWorkComplete>0</PercentWorkComplete>
+			<ActualCost>0</ActualCost>
+			<ActualOvertimeCost>0</ActualOvertimeCost>
+			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
+			<ActualWork>PT0H0M0S</ActualWork>
+			<ACWP>0.00</ACWP>
+			<Confirmed>0</Confirmed>
+			<Cost>46600.29</Cost>
+			<CostRateTable>0</CostRateTable>
+			<RateScale>0</RateScale>
+			<CostVariance>46600.29</CostVariance>
+			<CV>0.00</CV>
+			<Delay>0</Delay>
+			<Finish>2027-01-15T12:25:12</Finish>
+			<FinishVariance>0</FinishVariance>
+			<WorkVariance>1234000.00</WorkVariance>
+			<HasFixedRateUnits>1</HasFixedRateUnits>
+			<FixedMaterial>0</FixedMaterial>
+			<LevelingDelay>0</LevelingDelay>
+			<LevelingDelayFormat>7</LevelingDelayFormat>
+			<LinkedFields>0</LinkedFields>
+			<Milestone>0</Milestone>
+			<Overallocated>0</Overallocated>
+			<OvertimeCost>0</OvertimeCost>
+			<OvertimeWork>PT0H0M0S</OvertimeWork>
+			<RegularWork>PT20H33M54S</RegularWork>
+			<RemainingCost>46600.29</RemainingCost>
+			<RemainingOvertimeCost>0</RemainingOvertimeCost>
+			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
+			<RemainingWork>PT20H33M54S</RemainingWork>
+			<ResponsePending>0</ResponsePending>
+			<Start>2027-01-11T09:00:00</Start>
+			<StartVariance>0</StartVariance>
+			<Units>0.75</Units>
+			<UpdateNeeded>0</UpdateNeeded>
+			<VAC>0.00</VAC>
+			<Work>PT20H33M54S</Work>
+			<WorkContour>0</WorkContour>
+			<BCWS>0.00</BCWS>
+			<BCWP>0.00</BCWP>
+			<BookingType>0</BookingType>
+			<CreationDate>2026-11-15T18:40:00</CreationDate>
+			<BudgetCost>0</BudgetCost>
+			<BudgetWork>PT0H0M0S</BudgetWork>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>708</UID>
+				<Start>2027-01-11T09:00:00</Start>
+				<Finish>2027-01-12T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT4H30M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>708</UID>
+				<Start>2027-01-12T09:00:00</Start>
+				<Finish>2027-01-13T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT4H30M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>708</UID>
+				<Start>2027-01-13T09:00:00</Start>
+				<Finish>2027-01-14T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT4H30M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>708</UID>
+				<Start>2027-01-14T09:00:00</Start>
+				<Finish>2027-01-15T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT4H30M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>708</UID>
+				<Start>2027-01-15T09:00:00</Start>
+				<Finish>2027-01-15T12:25:12</Finish>
+				<Unit>1</Unit>
+				<Value>PT2H33M54S</Value>
+			</TimephasedData>
+		</Assignment>
+		<Assignment>
+			<UID>709</UID>
+			<GUID>2AD725B1-1BE1-F111-8443-749779859216</GUID>
+			<TaskUID>492</TaskUID>
+			<ResourceUID>16</ResourceUID>
+			<PercentWorkComplete>0</PercentWorkComplete>
+			<ActualCost>0</ActualCost>
+			<ActualOvertimeCost>0</ActualOvertimeCost>
+			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
+			<ActualWork>PT0H0M0S</ActualWork>
+			<ACWP>0.00</ACWP>
+			<Confirmed>0</Confirmed>
+			<Cost>5812.29</Cost>
+			<CostRateTable>0</CostRateTable>
+			<RateScale>0</RateScale>
+			<CostVariance>5812.29</CostVariance>
+			<CV>0.00</CV>
+			<Delay>0</Delay>
+			<Finish>2027-01-18T09:50:24</Finish>
+			<FinishVariance>0</FinishVariance>
+			<WorkVariance>154000.00</WorkVariance>
+			<HasFixedRateUnits>1</HasFixedRateUnits>
+			<FixedMaterial>0</FixedMaterial>
+			<LevelingDelay>0</LevelingDelay>
+			<LevelingDelayFormat>7</LevelingDelayFormat>
+			<LinkedFields>0</LinkedFields>
+			<Milestone>0</Milestone>
+			<Overallocated>0</Overallocated>
+			<OvertimeCost>0</OvertimeCost>
+			<OvertimeWork>PT0H0M0S</OvertimeWork>
+			<RegularWork>PT2H33M54S</RegularWork>
+			<RemainingCost>5812.29</RemainingCost>
+			<RemainingOvertimeCost>0</RemainingOvertimeCost>
+			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
+			<RemainingWork>PT2H33M54S</RemainingWork>
+			<ResponsePending>0</ResponsePending>
+			<Start>2027-01-15T12:25:12</Start>
+			<StartVariance>0</StartVariance>
+			<Units>0.75</Units>
+			<UpdateNeeded>0</UpdateNeeded>
+			<VAC>0.00</VAC>
+			<Work>PT2H33M54S</Work>
+			<WorkContour>0</WorkContour>
+			<BCWS>0.00</BCWS>
+			<BCWP>0.00</BCWP>
+			<BookingType>0</BookingType>
+			<CreationDate>2026-11-15T18:40:00</CreationDate>
+			<BudgetCost>0</BudgetCost>
+			<BudgetWork>PT0H0M0S</BudgetWork>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>709</UID>
+				<Start>2027-01-15T12:25:12</Start>
+				<Finish>2027-01-16T12:25:12</Finish>
+				<Unit>1</Unit>
+				<Value>PT1H56M6S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>709</UID>
+				<Start>2027-01-16T12:25:12</Start>
+				<Finish>2027-01-18T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT0H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>709</UID>
+				<Start>2027-01-18T09:00:00</Start>
+				<Finish>2027-01-18T09:50:24</Finish>
+				<Unit>1</Unit>
+				<Value>PT0H37M48S</Value>
+			</TimephasedData>
+		</Assignment>
+		<Assignment>
+			<UID>710</UID>
+			<GUID>2BD725B1-1BE1-F111-8443-749779859216</GUID>
+			<TaskUID>491</TaskUID>
+			<ResourceUID>16</ResourceUID>
+			<PercentWorkComplete>0</PercentWorkComplete>
+			<ActualCost>0</ActualCost>
+			<ActualOvertimeCost>0</ActualOvertimeCost>
+			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
+			<ActualWork>PT0H0M0S</ActualWork>
+			<ACWP>0.00</ACWP>
+			<Confirmed>0</Confirmed>
+			<Cost>52412.58</Cost>
+			<CostRateTable>0</CostRateTable>
+			<RateScale>0</RateScale>
+			<CostVariance>52412.58</CostVariance>
+			<CV>0.00</CV>
+			<Delay>0</Delay>
+			<Finish>2027-01-18T09:50:24</Finish>
+			<FinishVariance>0</FinishVariance>
+			<WorkVariance>1388000.00</WorkVariance>
+			<HasFixedRateUnits>1</HasFixedRateUnits>
+			<FixedMaterial>0</FixedMaterial>
+			<LevelingDelay>0</LevelingDelay>
+			<LevelingDelayFormat>7</LevelingDelayFormat>
+			<LinkedFields>0</LinkedFields>
+			<Milestone>0</Milestone>
+			<Overallocated>0</Overallocated>
+			<OvertimeCost>0</OvertimeCost>
+			<OvertimeWork>PT0H0M0S</OvertimeWork>
+			<RegularWork>PT23H7M48S</RegularWork>
+			<RemainingCost>52412.58</RemainingCost>
+			<RemainingOvertimeCost>0</RemainingOvertimeCost>
+			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
+			<RemainingWork>PT23H7M48S</RemainingWork>
+			<ResponsePending>0</ResponsePending>
+			<Start>2027-01-11T09:00:00</Start>
+			<StartVariance>0</StartVariance>
+			<Units>0.75</Units>
+			<UpdateNeeded>0</UpdateNeeded>
+			<VAC>0.00</VAC>
+			<Work>PT23H7M48S</Work>
+			<WorkContour>0</WorkContour>
+			<BCWS>0.00</BCWS>
+			<BCWP>0.00</BCWP>
+			<BookingType>0</BookingType>
+			<CreationDate>2026-11-15T18:40:00</CreationDate>
+			<BudgetCost>0</BudgetCost>
+			<BudgetWork>PT0H0M0S</BudgetWork>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>710</UID>
+				<Start>2027-01-11T09:00:00</Start>
+				<Finish>2027-01-12T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT4H30M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>710</UID>
+				<Start>2027-01-12T09:00:00</Start>
+				<Finish>2027-01-13T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT4H30M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>710</UID>
+				<Start>2027-01-13T09:00:00</Start>
+				<Finish>2027-01-14T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT4H30M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>710</UID>
+				<Start>2027-01-14T09:00:00</Start>
+				<Finish>2027-01-15T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT4H30M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>710</UID>
+				<Start>2027-01-15T09:00:00</Start>
+				<Finish>2027-01-16T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT4H30M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>710</UID>
+				<Start>2027-01-16T09:00:00</Start>
+				<Finish>2027-01-18T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT0H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>710</UID>
+				<Start>2027-01-18T09:00:00</Start>
+				<Finish>2027-01-18T09:50:24</Finish>
+				<Unit>1</Unit>
+				<Value>PT0H37M48S</Value>
+			</TimephasedData>
+		</Assignment>
+		<Assignment>
+			<UID>711</UID>
+			<GUID>2CD725B1-1BE1-F111-8443-749779859216</GUID>
+			<TaskUID>490</TaskUID>
+			<ResourceUID>16</ResourceUID>
+			<PercentWorkComplete>0</PercentWorkComplete>
+			<ActualCost>0</ActualCost>
+			<ActualOvertimeCost>0</ActualOvertimeCost>
+			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
+			<ActualWork>PT0H0M0S</ActualWork>
+			<ACWP>0.00</ACWP>
+			<Confirmed>0</Confirmed>
+			<Cost>17436.87</Cost>
+			<CostRateTable>0</CostRateTable>
+			<RateScale>0</RateScale>
+			<CostVariance>17436.87</CostVariance>
+			<CV>0.00</CV>
+			<Delay>0</Delay>
+			<Finish>2027-01-19T14:06:00</Finish>
+			<FinishVariance>0</FinishVariance>
+			<WorkVariance>462000.00</WorkVariance>
+			<HasFixedRateUnits>1</HasFixedRateUnits>
+			<FixedMaterial>0</FixedMaterial>
+			<LevelingDelay>0</LevelingDelay>
+			<LevelingDelayFormat>7</LevelingDelayFormat>
+			<LinkedFields>0</LinkedFields>
+			<Milestone>0</Milestone>
+			<Overallocated>0</Overallocated>
+			<OvertimeCost>0</OvertimeCost>
+			<OvertimeWork>PT0H0M0S</OvertimeWork>
+			<RegularWork>PT7H41M42S</RegularWork>
+			<RemainingCost>17436.87</RemainingCost>
+			<RemainingOvertimeCost>0</RemainingOvertimeCost>
+			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
+			<RemainingWork>PT7H41M42S</RemainingWork>
+			<ResponsePending>0</ResponsePending>
+			<Start>2027-01-18T09:50:24</Start>
+			<StartVariance>0</StartVariance>
+			<Units>0.75</Units>
+			<UpdateNeeded>0</UpdateNeeded>
+			<VAC>0.00</VAC>
+			<Work>PT7H41M42S</Work>
+			<WorkContour>0</WorkContour>
+			<BCWS>0.00</BCWS>
+			<BCWP>0.00</BCWP>
+			<BookingType>0</BookingType>
+			<CreationDate>2026-11-15T18:40:00</CreationDate>
+			<BudgetCost>0</BudgetCost>
+			<BudgetWork>PT0H0M0S</BudgetWork>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>711</UID>
+				<Start>2027-01-18T09:50:24</Start>
+				<Finish>2027-01-19T09:50:24</Finish>
+				<Unit>1</Unit>
+				<Value>PT4H30M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>711</UID>
+				<Start>2027-01-19T09:50:24</Start>
+				<Finish>2027-01-19T14:06:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT3H11M42S</Value>
+			</TimephasedData>
+		</Assignment>
+		<Assignment>
+			<UID>713</UID>
+			<GUID>F778C8F5-1BE1-F111-8443-749779859216</GUID>
+			<TaskUID>378</TaskUID>
+			<ResourceUID>16</ResourceUID>
+			<PercentWorkComplete>0</PercentWorkComplete>
+			<ActualCost>0</ActualCost>
+			<ActualOvertimeCost>0</ActualOvertimeCost>
+			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
+			<ActualWork>PT0H0M0S</ActualWork>
+			<ACWP>0.00</ACWP>
+			<Confirmed>0</Confirmed>
+			<Cost>23249.16</Cost>
+			<CostRateTable>0</CostRateTable>
+			<RateScale>0</RateScale>
+			<CostVariance>23249.16</CostVariance>
+			<CV>0.00</CV>
+			<Delay>0</Delay>
+			<Finish>2027-01-27T10:40:48</Finish>
+			<FinishVariance>0</FinishVariance>
+			<WorkVariance>616000.00</WorkVariance>
+			<HasFixedRateUnits>1</HasFixedRateUnits>
+			<FixedMaterial>0</FixedMaterial>
+			<LevelingDelay>0</LevelingDelay>
+			<LevelingDelayFormat>7</LevelingDelayFormat>
+			<LinkedFields>0</LinkedFields>
+			<Milestone>0</Milestone>
+			<Overallocated>0</Overallocated>
+			<OvertimeCost>0</OvertimeCost>
+			<OvertimeWork>PT0H0M0S</OvertimeWork>
+			<RegularWork>PT10H15M36S</RegularWork>
+			<RemainingCost>23249.16</RemainingCost>
+			<RemainingOvertimeCost>0</RemainingOvertimeCost>
+			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
+			<RemainingWork>PT10H15M36S</RemainingWork>
+			<ResponsePending>0</ResponsePending>
+			<Start>2027-01-25T09:00:00</Start>
+			<StartVariance>0</StartVariance>
+			<Units>0.75</Units>
+			<UpdateNeeded>0</UpdateNeeded>
+			<VAC>0.00</VAC>
+			<Work>PT10H15M36S</Work>
+			<WorkContour>0</WorkContour>
+			<BCWS>0.00</BCWS>
+			<BCWP>0.00</BCWP>
+			<BookingType>0</BookingType>
+			<CreationDate>2026-11-15T18:42:00</CreationDate>
+			<BudgetCost>0</BudgetCost>
+			<BudgetWork>PT0H0M0S</BudgetWork>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>713</UID>
+				<Start>2027-01-25T09:00:00</Start>
+				<Finish>2027-01-26T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT4H30M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>713</UID>
+				<Start>2027-01-26T09:00:00</Start>
+				<Finish>2027-01-27T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT4H30M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>713</UID>
+				<Start>2027-01-27T09:00:00</Start>
+				<Finish>2027-01-27T10:40:48</Finish>
+				<Unit>1</Unit>
+				<Value>PT1H15M36S</Value>
+			</TimephasedData>
+		</Assignment>
+		<Assignment>
+			<UID>714</UID>
+			<GUID>B9A77CFE-1BE1-F111-8443-749779859216</GUID>
+			<TaskUID>495</TaskUID>
+			<ResourceUID>16</ResourceUID>
+			<PercentWorkComplete>0</PercentWorkComplete>
+			<ActualCost>0</ActualCost>
+			<ActualOvertimeCost>0</ActualOvertimeCost>
+			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
+			<ActualWork>PT0H0M0S</ActualWork>
+			<ACWP>0.00</ACWP>
+			<Confirmed>0</Confirmed>
+			<Cost>23249.16</Cost>
+			<CostRateTable>0</CostRateTable>
+			<RateScale>0</RateScale>
+			<CostVariance>23249.16</CostVariance>
+			<CV>0.00</CV>
+			<Delay>0</Delay>
+			<Finish>2027-01-27T10:40:48</Finish>
+			<FinishVariance>0</FinishVariance>
+			<WorkVariance>616000.00</WorkVariance>
+			<HasFixedRateUnits>1</HasFixedRateUnits>
+			<FixedMaterial>0</FixedMaterial>
+			<LevelingDelay>0</LevelingDelay>
+			<LevelingDelayFormat>7</LevelingDelayFormat>
+			<LinkedFields>0</LinkedFields>
+			<Milestone>0</Milestone>
+			<Overallocated>0</Overallocated>
+			<OvertimeCost>0</OvertimeCost>
+			<OvertimeWork>PT0H0M0S</OvertimeWork>
+			<RegularWork>PT10H15M36S</RegularWork>
+			<RemainingCost>23249.16</RemainingCost>
+			<RemainingOvertimeCost>0</RemainingOvertimeCost>
+			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
+			<RemainingWork>PT10H15M36S</RemainingWork>
+			<ResponsePending>0</ResponsePending>
+			<Start>2027-01-25T09:00:00</Start>
+			<StartVariance>0</StartVariance>
+			<Units>0.75</Units>
+			<UpdateNeeded>0</UpdateNeeded>
+			<VAC>0.00</VAC>
+			<Work>PT10H15M36S</Work>
+			<WorkContour>0</WorkContour>
+			<BCWS>0.00</BCWS>
+			<BCWP>0.00</BCWP>
+			<BookingType>0</BookingType>
+			<CreationDate>2026-11-15T18:42:00</CreationDate>
+			<BudgetCost>0</BudgetCost>
+			<BudgetWork>PT0H0M0S</BudgetWork>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>714</UID>
+				<Start>2027-01-25T09:00:00</Start>
+				<Finish>2027-01-26T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT4H30M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>714</UID>
+				<Start>2027-01-26T09:00:00</Start>
+				<Finish>2027-01-27T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT4H30M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>714</UID>
+				<Start>2027-01-27T09:00:00</Start>
+				<Finish>2027-01-27T10:40:48</Finish>
+				<Unit>1</Unit>
+				<Value>PT1H15M36S</Value>
+			</TimephasedData>
+		</Assignment>
+		<Assignment>
+			<UID>715</UID>
+			<GUID>DB587C12-1CE1-F111-8443-749779859216</GUID>
+			<TaskUID>498</TaskUID>
+			<ResourceUID>18</ResourceUID>
+			<PercentWorkComplete>0</PercentWorkComplete>
+			<ActualCost>0</ActualCost>
+			<ActualOvertimeCost>0</ActualOvertimeCost>
+			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
+			<ActualWork>PT0H0M0S</ActualWork>
+			<ACWP>0.00</ACWP>
+			<Confirmed>0</Confirmed>
+			<Cost>43260</Cost>
+			<CostRateTable>0</CostRateTable>
+			<RateScale>0</RateScale>
+			<CostVariance>43260</CostVariance>
+			<CV>0.00</CV>
+			<Delay>0</Delay>
+			<Finish>2027-01-08T15:00:00</Finish>
+			<FinishVariance>0</FinishVariance>
+			<WorkVariance>720000.00</WorkVariance>
+			<HasFixedRateUnits>1</HasFixedRateUnits>
+			<FixedMaterial>0</FixedMaterial>
+			<LevelingDelay>0</LevelingDelay>
+			<LevelingDelayFormat>7</LevelingDelayFormat>
+			<LinkedFields>0</LinkedFields>
+			<Milestone>0</Milestone>
+			<Overallocated>0</Overallocated>
+			<OvertimeCost>0</OvertimeCost>
+			<OvertimeWork>PT0H0M0S</OvertimeWork>
+			<RegularWork>PT12H0M0S</RegularWork>
+			<RemainingCost>43260</RemainingCost>
+			<RemainingOvertimeCost>0</RemainingOvertimeCost>
+			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
+			<RemainingWork>PT12H0M0S</RemainingWork>
+			<ResponsePending>0</ResponsePending>
+			<Start>2027-01-07T09:00:00</Start>
+			<StartVariance>0</StartVariance>
+			<Units>1</Units>
+			<UpdateNeeded>0</UpdateNeeded>
+			<VAC>0.00</VAC>
+			<Work>PT12H0M0S</Work>
+			<WorkContour>0</WorkContour>
+			<BCWS>0.00</BCWS>
+			<BCWP>0.00</BCWP>
+			<BookingType>0</BookingType>
+			<CreationDate>2026-11-15T18:43:00</CreationDate>
+			<BudgetCost>0</BudgetCost>
+			<BudgetWork>PT0H0M0S</BudgetWork>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>715</UID>
+				<Start>2027-01-07T09:00:00</Start>
+				<Finish>2027-01-08T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT6H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>715</UID>
+				<Start>2027-01-08T09:00:00</Start>
+				<Finish>2027-01-08T15:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT6H0M0S</Value>
+			</TimephasedData>
+		</Assignment>
+		<Assignment>
+			<UID>716</UID>
+			<GUID>5F23EE1D-1CE1-F111-8443-749779859216</GUID>
+			<TaskUID>466</TaskUID>
+			<ResourceUID>18</ResourceUID>
+			<PercentWorkComplete>0</PercentWorkComplete>
+			<ActualCost>0</ActualCost>
+			<ActualOvertimeCost>0</ActualOvertimeCost>
+			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
+			<ActualWork>PT0H0M0S</ActualWork>
+			<ACWP>0.00</ACWP>
+			<Confirmed>0</Confirmed>
+			<Cost>108150</Cost>
+			<CostRateTable>0</CostRateTable>
+			<RateScale>0</RateScale>
+			<CostVariance>108150</CostVariance>
+			<CV>0.00</CV>
+			<Delay>0</Delay>
+			<Finish>2027-01-12T15:00:00</Finish>
+			<FinishVariance>0</FinishVariance>
+			<WorkVariance>1800000.00</WorkVariance>
+			<HasFixedRateUnits>1</HasFixedRateUnits>
+			<FixedMaterial>0</FixedMaterial>
+			<LevelingDelay>0</LevelingDelay>
+			<LevelingDelayFormat>7</LevelingDelayFormat>
+			<LinkedFields>0</LinkedFields>
+			<Milestone>0</Milestone>
+			<Overallocated>0</Overallocated>
+			<OvertimeCost>0</OvertimeCost>
+			<OvertimeWork>PT0H0M0S</OvertimeWork>
+			<RegularWork>PT30H0M0S</RegularWork>
+			<RemainingCost>108150</RemainingCost>
+			<RemainingOvertimeCost>0</RemainingOvertimeCost>
+			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
+			<RemainingWork>PT30H0M0S</RemainingWork>
+			<ResponsePending>0</ResponsePending>
+			<Start>2027-01-05T09:00:00</Start>
+			<StartVariance>0</StartVariance>
+			<Units>1</Units>
+			<UpdateNeeded>0</UpdateNeeded>
+			<VAC>0.00</VAC>
+			<Work>PT30H0M0S</Work>
+			<WorkContour>0</WorkContour>
+			<BCWS>0.00</BCWS>
+			<BCWP>0.00</BCWP>
+			<BookingType>0</BookingType>
+			<CreationDate>2026-11-15T18:43:00</CreationDate>
+			<BudgetCost>0</BudgetCost>
+			<BudgetWork>PT0H0M0S</BudgetWork>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>716</UID>
+				<Start>2027-01-05T09:00:00</Start>
+				<Finish>2027-01-06T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT6H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>716</UID>
+				<Start>2027-01-06T09:00:00</Start>
+				<Finish>2027-01-07T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT0H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>716</UID>
+				<Start>2027-01-07T09:00:00</Start>
+				<Finish>2027-01-08T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT6H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>716</UID>
+				<Start>2027-01-08T09:00:00</Start>
+				<Finish>2027-01-09T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT6H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>716</UID>
+				<Start>2027-01-09T09:00:00</Start>
+				<Finish>2027-01-11T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT0H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>716</UID>
+				<Start>2027-01-11T09:00:00</Start>
+				<Finish>2027-01-12T09:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT6H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>716</UID>
+				<Start>2027-01-12T09:00:00</Start>
+				<Finish>2027-01-12T15:00:00</Finish>
+				<Unit>1</Unit>
+				<Value>PT6H0M0S</Value>
+			</TimephasedData>
+		</Assignment>
+		<Assignment>
+			<UID>717</UID>
+			<GUID>5D733315-2AE1-F111-8443-749779859216</GUID>
+			<TaskUID>480</TaskUID>
+			<ResourceUID>17</ResourceUID>
+			<PercentWorkComplete>0</PercentWorkComplete>
+			<ActualCost>0</ActualCost>
+			<ActualOvertimeCost>0</ActualOvertimeCost>
+			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
+			<ActualWork>PT0H0M0S</ActualWork>
+			<ACWP>0.00</ACWP>
+			<Confirmed>0</Confirmed>
+			<Cost>47880</Cost>
+			<CostRateTable>0</CostRateTable>
+			<RateScale>0</RateScale>
+			<CostVariance>47880</CostVariance>
+			<CV>0.00</CV>
+			<Delay>0</Delay>
+			<Finish>2026-12-02T11:31:12</Finish>
+			<FinishVariance>0</FinishVariance>
+			<WorkVariance>821000.00</WorkVariance>
+			<HasFixedRateUnits>1</HasFixedRateUnits>
+			<FixedMaterial>0</FixedMaterial>
+			<LevelingDelay>0</LevelingDelay>
+			<LevelingDelayFormat>7</LevelingDelayFormat>
+			<LinkedFields>0</LinkedFields>
+			<Milestone>0</Milestone>
+			<Overallocated>0</Overallocated>
+			<OvertimeCost>0</OvertimeCost>
+			<OvertimeWork>PT0H0M0S</OvertimeWork>
+			<RegularWork>PT13H40M48S</RegularWork>
+			<RemainingCost>47880</RemainingCost>
+			<RemainingOvertimeCost>0</RemainingOvertimeCost>
+			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
+			<RemainingWork>PT13H40M48S</RemainingWork>
+			<ResponsePending>0</ResponsePending>
+			<Start>2026-11-30T09:50:24</Start>
+			<StartVariance>0</StartVariance>
+			<Units>1</Units>
+			<UpdateNeeded>0</UpdateNeeded>
+			<VAC>0.00</VAC>
+			<Work>PT13H40M48S</Work>
+			<WorkContour>0</WorkContour>
+			<BCWS>0.00</BCWS>
+			<BCWP>0.00</BCWP>
+			<BookingType>0</BookingType>
+			<CreationDate>2026-11-15T20:23:00</CreationDate>
+			<BudgetCost>0</BudgetCost>
+			<BudgetWork>PT0H0M0S</BudgetWork>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>717</UID>
+				<Start>2026-11-30T09:50:24</Start>
+				<Finish>2026-12-01T09:50:24</Finish>
+				<Unit>1</Unit>
+				<Value>PT6H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>717</UID>
+				<Start>2026-12-01T09:50:24</Start>
+				<Finish>2026-12-02T09:50:24</Finish>
+				<Unit>1</Unit>
+				<Value>PT6H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>1</Type>
+				<UID>717</UID>
+				<Start>2026-12-02T09:50:24</Start>
+				<Finish>2026-12-02T11:31:12</Finish>
+				<Unit>1</Unit>
+				<Value>PT1H40M48S</Value>
 			</TimephasedData>
 		</Assignment>
 	</Assignments>
