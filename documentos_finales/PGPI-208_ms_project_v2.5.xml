@@ -6,7 +6,7 @@
 	<GUID>30E24F12-67E0-F111-8443-749779859216</GUID>
 	<Title>Proyecto TSL-2627 TuSuper en Línea</Title>
 	<CreationDate>2026-11-11T22:39:00</CreationDate>
-	<LastSaved>2026-11-14T21:09:00</LastSaved>
+	<LastSaved>2026-11-15T08:39:00</LastSaved>
 	<ScheduleFromStart>1</ScheduleFromStart>
 	<StartDate>2026-10-05T09:00:00</StartDate>
 	<FinishDate>2027-02-12T09:00:00</FinishDate>
@@ -46,7 +46,7 @@
 	<MoveCompletedEndsForward>0</MoveCompletedEndsForward>
 	<BaselineForEarnedValue>0</BaselineForEarnedValue>
 	<AutoAddNewResourcesAndTasks>1</AutoAddNewResourcesAndTasks>
-	<CurrentDate>2026-11-14T08:00:00</CurrentDate>
+	<CurrentDate>2026-11-15T08:00:00</CurrentDate>
 	<MicrosoftProjectServerURL>1</MicrosoftProjectServerURL>
 	<Autolink>0</Autolink>
 	<NewTaskStartDate>0</NewTaskStartDate>
@@ -11076,7 +11076,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<UID>436</UID>
 			<GUID>C6E24F12-67E0-F111-8443-749779859216</GUID>
 			<ID>102</ID>
-			<Name>dentificación del comprador (RF-01.2) </Name>
+			<Name>Dentificación del comprador (RF-01.2) </Name>
 			<Active>1</Active>
 			<Manual>0</Manual>
 			<Type>0</Type>
@@ -17480,7 +17480,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<UID>417</UID>
 			<GUID>B6E24F12-67E0-F111-8443-749779859216</GUID>
 			<ID>163</ID>
-			<Name>Gestión Solcitud de Acceso a los datos del ERP</Name>
+			<Name>Gestión Solicitud de Acceso a los datos del ERP</Name>
 			<Active>1</Active>
 			<Manual>0</Manual>
 			<Type>0</Type>
@@ -18239,7 +18239,7 @@ La Acumulación de costos fijos se establece al Fin de la tarea -&gt; Configurar
 			<UID>439</UID>
 			<GUID>C9E24F12-67E0-F111-8443-749779859216</GUID>
 			<ID>170</ID>
-			<Name> Catálogo, precios y existencias del ERP, cargados y existencias del ERP, cargados y sincronizados (EP-04), con el conector y ERP funcionando</Name>
+			<Name> Catálogo, precios y existencias del ERP, cargados y sincronizados (EP-04), con el conector y ERP funcionando</Name>
 			<Active>1</Active>
 			<Manual>0</Manual>
 			<Type>0</Type>
